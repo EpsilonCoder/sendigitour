@@ -1,0 +1,82 @@
+/** Radio Image Button */
+.page-meta-box.form-table td{
+	padding: 5px;
+}
+
+.f13{
+	font-size: 13px !important; 
+	line-height: 16px
+}
+
+.radio-image-wrapper{
+	margin-right: 25px; 
+	float: left;
+}
+
+.hide-radio{
+	position: relative;
+	margin-bottom: 6px;
+}
+
+.hide-radio img, .hide-radio label{
+	display: block;
+}
+
+.hide-radio input[type="radio"]{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	opacity: 0;
+}
+
+.hide-radio input[type=radio] + label {
+	border: 3px solid #F1F1F1;
+}
+
+.hide-radio input[type=radio]:checked + label {
+  border: 3px solid #CCC;
+}
+
+#chic_lite_single_layout table tr td .radio-image-wrapper {
+    width: 11.33%;
+    margin-right: 1% !important;
+}
+
+#chic_lite_single_layout table tr td .radio-image-wrapper img {
+    max-width: 100%;
+}
+
+/** Radio Image Button Ends */
+
+/*Admin Notice */
+.notice-info .notice-text {
+   position: relative;
+}
+
+.notice-text p.dismiss-link {
+   position: absolute;
+   top: 0;
+   right: 0;
+   margin: 0;
+   padding: 0;
+}
+
+/** Review Dialog Box */
+.notice-info.review-message{
+    border-left-color: #f8478d;
+}
+.review-message .notice-text{
+    display: flex;
+    align-items: center;
+}
+.review-message .notice-text .logo-holder img{
+    width:100px;
+    margin-right: 20px;
+}
+
+.review-message .message-text{
+    margin-bottom: 10px;
+}
+.review-message .button-holder a{
+    margin-right: 25px;
+}

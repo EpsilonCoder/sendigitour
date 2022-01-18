@@ -1,0 +1,530 @@
+/* General */
+html {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	outline: 0 !important;
+}
+
+#wpcontent {
+	padding: 0;
+}
+
+.wrap {
+	margin: 0;
+}
+
+.options-page-header-wrapper h1 {
+	font-size: 42px;
+	margin: 10px 0;
+}
+
+.welcome-text {
+	display: flex;
+	margin-bottom: 50px;
+}
+
+.welcome-text p {
+	width: 49%;
+	max-width: 535px;
+	margin-right: 2%;
+	font-size: 14px;
+	color: #616161;
+}
+
+.welcome-text .button-hero {
+	margin-top: 20px;
+	min-height: 40px !important;
+	line-height: 45px !important;
+	background: #06aeec;
+	border-color: #06aeec;
+}
+
+.welcome-text .button-hero:hover {
+	background: #009eda;
+	border-color: #009eda;
+}
+
+.options-page-header-wrapper {
+	padding: 0 30px 50px 30px;
+}
+
+.wpr-nav-tab-wrapper {
+	padding-top: 0;
+	border-bottom: 0;
+	-webkit-transform: translateY(-100%);
+	  -ms-transform: translateY(-100%);
+	      transform: translateY(-100%);
+}
+
+.wpr-nav-tab-wrapper {
+	overflow: hidden;
+	padding-top: 0;
+	border-bottom: 0;
+	-webkit-transform: translateY(-100%);
+	-ms-transform: translateY(-100%);
+	transform: translateY(-100%);
+}
+
+.wpr-nav-tab-wrapper a {
+	border: 0 !important;
+	padding: 13px 35px;
+	background-color: #f9f9f9;
+	font-size: 16px;
+	margin-left: 0;
+	margin-right: 15px;
+	border-radius: 3px 4px 0 0;
+	color: #666666;
+	box-shadow: none !important;
+}
+
+.wpr-nav-tab-wrapper a:hover {
+	color: #F4524D;
+	background: #fff;
+}
+
+.wpr-nav-tab-wrapper a:nth-child(5) span {
+	color: orange;
+}
+
+.wpr-nav-tab-wrapper a .dashicons {
+	line-height: 30px;
+	margin-right: 5px;
+}
+
+.wpr-nav-tab-wrapper .nav-tab-active {
+	color: #F4524D;
+	background: #fff;
+	-webkit-box-shadow: 3px -2px 5px rgba(0,0,0,0.03);
+	      box-shadow: 3px -2px 5px rgba(0,0,0,0.03);
+}
+
+.wpr-nav-tab-wrapper a:focus {
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.options-page-tabs-wrapper {
+	background: #fff;
+	padding: 0 30px 70px 30px;
+}
+
+.options-page-tabs-wrapper p {
+	color: #616161;
+}
+
+.options-page-tabs-wrapper .button-primary {
+	background: #06aeec;
+	border-color: #06aeec;
+}
+
+.options-page-tabs-wrapper .button-primary:hover {
+	background: #009eda;
+	border-color: #009eda;
+}
+
+.options-page-tabs-wrapper .button-secondary {
+	color: #06aeec;
+	border-color: #06aeec;
+}
+
+.options-page-tabs-wrapper .button-secondary:hover {
+	color: #009eda;
+	border-color: #009eda;
+}
+
+.column-width-4 p {
+  min-height: 60px;
+}
+
+.three-columns-wrap,
+.four-columns-wrap {
+	overflow: hidden;
+}
+
+.getting-started.four-columns-wrap {
+	margin-top: -30px;
+}
+
+.getting-started .royal-addons-title {
+	display: flex;
+	margin-bottom: -3px;
+}
+
+.getting-started .royal-addons-title img {
+	margin-right: 10px;
+}
+
+.getting-started .button-primary {
+	height: 36px;
+	line-height: 34px;
+	padding: 0 18px 1px;
+	font-size: 13px;
+}
+
+.three-columns-wrap p {
+	font-size: 14px;
+}
+
+.column-width-3 {
+	float: left;
+	width: 30%;
+	max-width: 480px;
+	margin-right: 3%;
+}
+
+.predefined-styles {
+	margin-top: 20px;
+}
+
+.predefined-styles > h2 {
+	font-size: 24px !important;
+	margin-bottom: 0 !important;
+}
+
+.predefined-styles > h2 + p {
+	max-width: 645px;
+	margin-bottom: 30px;
+	color: #616161;
+}
+
+.predefined-styles .column-width-4 {
+  overflow: hidden;
+  border-radius: 5px;
+  border: 1px solid #efefef;
+  box-shadow: 0 0 15px 0 rgba(0,0,0,0.08);
+}
+
+.predefined-styles .column-width-4 img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+
+.predefined-styles .column-width-4 > div {
+	position: relative;
+	overflow: hidden;
+	padding: 20px;
+	border-top: 1px solid #efefef;
+}
+
+.predefined-styles .column-width-4 > div h2 {
+	float: left;
+	margin: 0;
+    font-size: 15px;
+    line-height: 18px;
+    font-weight: 600;
+    height: 18px;
+}
+
+.predefined-styles .column-width-4 > div a {
+	position: absolute;
+	top: 15px;
+	right: 20px;
+}
+
+.predefined-styles .column-width-4 .active-style {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100%;
+	height: 38px;
+	line-height: 38px;
+	padding: 0;
+	color: #fff;
+	font-size: 14px;
+	letter-spacing: 0.7px;
+	font-weight: 600;
+	background-color: #06aeec;
+	text-align: center;
+	cursor: default;
+}
+
+.column-width-4 {
+	position: relative;
+	float: left;
+	width: 22.5%;
+	max-width: 360px;
+	margin-right: 2%;
+	margin-bottom: 30px;
+}
+
+
+/* Video Tutorials */
+.video-tutorials .column-width-4 {
+	width: 23%;
+	padding: 20px;
+	background: #f9f9f9;
+	box-shadow: 0 0 5px 0 rgb(0 0 0 / 10%);
+	border-radius: 5px;
+}
+
+.video-tutorials .column-width-4 h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.video-tutorials .column-width-4 a {
+  height: 34px;
+  line-height: 30px;
+  padding: 0 15px 1px 15px;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+/* Buttons */
+.column-width-4.docs-desc .button {
+	margin-bottom: 10px;
+}
+
+.button.demo-import {
+	margin-bottom: 10px;
+	background: #F4524D;
+	border-color: #F4524D;
+}
+
+.button.demo-import:hover,
+.button.demo-import:focus {
+	background: #FF5650;
+	border-color: #FF5650;
+	color: #fff;
+	box-shadow: 0 1px 0 #ba281e;
+}
+
+.button.import-video span {
+	line-height: 33px;
+	font-size: 16px;
+	margin-right: 4px;
+}
+
+.button.insta .dashicons {
+	margin-top: 7px;
+	margin-right: 7px;
+}
+
+/* Recommended Plugins */
+.three-columns-wrap .plugin-card {
+	position: relative;
+	width: 30% !important;
+	min-height: 185px;
+	padding: 20px;
+	margin-right: 1% !important;
+	margin-left: 0 !important;
+	clear: none !important;
+	border-color: #efefef;
+}
+
+.three-columns-wrap .plugin-card .desc,
+.three-columns-wrap .plugin-card .name {
+	margin-left: 108px;
+	margin-right: 108px;
+}
+
+.three-columns-wrap .plugin-card .plugin-icon {
+	width: 90px;
+	height: 90px;
+}
+
+.three-columns-wrap .column-description {
+	margin-top: 20px !important;
+	margin-right: 90px !important;
+}
+
+.three-columns-wrap .column-description p {
+	font-size: 13px !important;
+	margin-bottom: 0 !important;
+}
+
+.three-columns-wrap .action-links {
+	 width: auto !important;
+}
+
+/* Support */
+.three-columns-wrap.support .column-width-3 p {
+	min-height: 60px;
+}
+
+.three-columns-wrap.support .button-primary {
+	height: 36px;
+	line-height: 34px;
+	padding: 0 18px 1px;
+	font-size: 13px;
+}
+
+/* Free vs Pro */
+.free-vs-pro {
+	width: 50%;
+}
+
+.free-vs-pro th {
+	padding-right: 0;
+	padding-left: 8px;
+	font-size: 1.2em;
+}
+
+.free-vs-pro thead th:first-child {
+	text-align: left;
+	padding-left: 0 !important;
+}
+
+.free-vs-pro thead th {
+	vertical-align: middle;
+}
+
+.free-vs-pro th,
+.compare-icon {
+	text-align: center;
+}
+
+.free-vs-pro td {
+	width: 80%;
+	padding: 20px 0 25px;
+	border-top: 1px solid #ccc;
+}
+
+.free-vs-pro tr:last-child td {
+	text-align: right;
+}
+
+.free-vs-pro h3 {
+	margin: 0 !important;
+}
+
+.free-vs-pro td p {
+	max-width: 450px;
+}
+
+.free-vs-pro .only-pro {
+	color: red;
+}
+
+.compare-icon span:before {
+	font-size: 25px;
+}
+
+.compare-icon .dashicons-yes {
+	color: green;
+}
+
+.compare-icon .dashicons-no {
+	color: red;
+}
+
+
+/* Responsive */
+@media screen and ( max-width: 1680px ) {
+	.getting-started .column-width-4 p {
+		min-height: 75px;
+	}
+
+	.three-columns-wrap .plugin-card {
+		width: 49% !important;
+	}
+}
+
+@media screen and ( max-width: 1366px ) {
+	.free-vs-pro {
+		width: 80% !important;
+	}
+}
+
+@media screen and ( max-width: 1280px ) {
+	.wpr-nav-tab-wrapper a {
+		padding: 13px 20px;
+		margin-right: 5px;
+		font-size: 14px;
+	}
+
+	.column-width-4,
+	.three-columns-wrap .plugin-card {
+		width: 48%;
+		max-width: none;
+		margin-right: 2%;
+		margin-bottom: 20px;
+	}
+
+	.predefined-styles .column-width-4 {
+		width: 30%;
+		margin-right: 3%;
+	}
+
+	.getting-started .column-width-4 p,
+	.support .column-width-4 p {
+		min-height: 0;
+	}
+
+	.getting-started .button-primary {
+		margin-top: 0 !important;
+	}
+
+	.video-tutorials .column-width-4 {
+		width: 48%;
+		margin-right: 2%;
+		margin-bottom: 20px;
+	}
+
+	.plugin-card .desc,
+	.plugin-card .name {
+		margin-left: 108px;
+		margin-right: 108px;
+	}
+
+	.plugin-card .plugin-icon {
+		width: 90px;
+		height: 90px;
+	}
+
+	.plugin-card h3 {
+		font-size: 16px;
+	}
+
+	.plugin-card .column-description {
+		margin-top: 0 !important;
+	}
+}
+
+@media screen and ( max-width: 960px ) {
+	.three-columns-wrap .plugin-card {
+		width: 100% !important;
+		margin-right: 0 !important;
+	}
+}
+
+@media screen and ( max-width: 850px ) {
+	.column-width-3,
+	.column-width-4 {
+		float: none;
+		width: 100%;
+		margin-right: 0;
+	}
+
+	.predefined-styles .column-width-4,
+	.video-tutorials .column-width-4 {
+		float: left;
+		width: 48%;
+		margin-right: 2%;
+		margin-bottom: 10px;
+	}
+
+	.three-columns-wrap.support .column-width-3 {
+		margin-bottom: 30px;
+	}
+
+	.three-columns-wrap.support .column-width-3 p {
+		min-height: 0;
+	}
+
+	.wpr-nav-tab-wrapper a {
+		padding: 10px 15px;
+		margin-right: 0;
+		font-size: 13px;
+	}
+}

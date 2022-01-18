@@ -1,0 +1,22 @@
+/*
+Theme Name: Blush
+Theme URI: https://awplife.com/wordpress-free-theme/blush/
+Author: A WP Life
+Author URI: https://awplife.com
+Template: aneeq
+Description: Blush is a responsive, multi-purpose WordPress theme to create business websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, news, broadcastradio messages, newspaper, colormagazines, easy businesspress , accounting, meta consulting, stores corporations, portfolios architecture, interior design, decoration, wooden furniture, home decor, construction, corporate, green lite agency, eCommerce promotion, future industries, Beauty & spa salons, photography, gym, yoga fitness, health, medical, startups, business agencies, law firms, travel, education, university portal, restaurant, shopping mall, magazines, finance IT company, tech accounting, consulting ,travel agency website. It is very fast and responsive for creating beautiful fast loading and accessible websites. Blush is RTL & translation ready. Theme is fully responsive and compatible with popular WordPress plugins like Elementor Page Builder, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Being creative and setting up a theme has never been so simple. Its elegant and meta minimalistic look make its an attractive oceanword theme. Whether you’re running an online shopping store or setting up your agency website, Aneeq Theme gives everything you need for your business to shine online. Live Demo https://awplife.com/demo/blush/
+Tags: blog, portfolio, news, grid-Layout, one-column, two-columns, three-columns, flexible-header, left-sidebar, right-sidebar, custom-background, custom-colors, custom-logo, custom-menu, featured-images, footer-widgets, full-width-template, post-formats, rtl-language-support, theme-options, sticky-post, threaded-comments, translation-ready, block-styles, wide-blocks
+Version: 2.17
+Tested up to: 5.8
+Requires PHP: 5.4
+License URI: http://www.gnu.org/licenses/gpl.html
+License: GNU General Public License v3 or later
+Text Domain: blush
+*/
+
+/* menu bar css start */
+.navbar-default{background-color:#fff;border-color:#fff;}
+a:focus, a:hover {
+    text-decoration: none !important;
+}
+/* menu bar css end */

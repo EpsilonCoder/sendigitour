@@ -1,0 +1,2201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aneeq Premium\n"
+"POT-Creation-Date: 2018-11-26 18:27+0530\n"
+"PO-Revision-Date: 2018-11-26 18:28+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:24 archive.php:17 breadcrumb.php:13 category.php:15 search.php:17 tag.php:16
+#: woocommerce.php:23
+msgid "Home"
+msgstr "होम"
+
+#: archive.php:58 category.php:57 front-page.php:68 index.php:54 search.php:59
+#: single.php:62 tag.php:61
+msgid "By"
+msgstr "द्वारा"
+
+#: archive.php:88 category.php:87 front-page.php:91 index.php:78 search.php:89 tag.php:91
+msgid "Back"
+msgstr "वापस"
+
+#: archive.php:89 category.php:88 front-page.php:92 index.php:79 search.php:90 tag.php:92
+msgid "Next"
+msgstr "आगामी"
+
+#: category.php:11
+msgid "Category Archive"
+msgstr "पोर्टफोलियो श्रेणी"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:386
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please update the "
+"plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2321 include/customizer.php:388
+#: include/customizer.php:767 include/customizer.php:1158 include/customizer.php:1246
+#: include/customizer.php:1313 include/customizer.php:1628
+msgid "Active"
+msgstr "सक्रिय"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+#, fuzzy, php-format
+msgid "Activate %2$s"
+msgstr "सक्रिय"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "सक्रिय"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: comments.php:14
+msgid "on"
+msgstr "पर"
+
+#: content.php:11
+msgid "| By"
+msgstr ""
+
+#: content.php:12
+msgid "| Posted in"
+msgstr "| प्रकाशित किया गया था"
+
+#: content.php:23 content.php:29
+msgid "Read More"
+msgstr "और पढो"
+
+#: footer.php:26
+msgid "About Aneeq"
+msgstr "अनीक के बारे में"
+
+#: footer.php:28
+msgid ""
+"Lorem Ipsum is simply dummy text of the printing and type setting industry. Lorem Ipsum "
+"has been the industry standard dummy text ever since the 1500s, when an unknown printer "
+"took a galley."
+msgstr ""
+
+#: footer.php:30
+msgid "Email :"
+msgstr "ईमेल :"
+
+#: footer.php:30
+#, fuzzy
+msgid "example@mymail.com"
+msgstr "mail@example.com"
+
+#: footer.php:31
+msgid "Phone :"
+msgstr "फ़ोन :"
+
+#: footer.php:31
+#, fuzzy
+msgid "(+91) 900-900-900"
+msgstr "(+91) 9000-12345"
+
+#: footer.php:32
+msgid "Address :"
+msgstr "पता :"
+
+#: footer.php:32
+#, fuzzy
+msgid "2021 Lorem Ipsum"
+msgstr "#2021 Lorem Ipsum "
+
+#: footer.php:37
+msgid "Recent Posts"
+msgstr "हाल के पोस्ट"
+
+#: footer.php:40
+msgid "Design Website Using WordPress. "
+msgstr ""
+
+#: footer.php:40
+msgid "November 07, 2017"
+msgstr ""
+
+#: footer.php:41
+msgid "Aneeq is best WordPress Theme. "
+msgstr ""
+
+#: footer.php:41
+msgid "December 05, 2017"
+msgstr ""
+
+#: footer.php:42
+msgid "Top 10 WordPress Themes. "
+msgstr ""
+
+#: footer.php:42
+msgid "January 03, 2018"
+msgstr ""
+
+#: footer.php:43
+msgid "Event Monster is best WordPress Event Plugin. "
+msgstr ""
+
+#: footer.php:43
+msgid "February 15, 2018"
+msgstr ""
+
+#: functions.php:90
+msgid "Aneeq Free WordPress Theme Setup"
+msgstr ""
+
+#: functions.php:264
+msgid "Primary Menu"
+msgstr "प्राथमिक मेनू"
+
+#: header.php:63
+msgid "Phone : "
+msgstr "फ़ोन :"
+
+#: header.php:64
+msgid "Email : "
+msgstr "ईमेल :"
+
+#: header.php:109
+msgid "Toggle Navigation"
+msgstr "टॉगल से संचालित करना"
+
+#: include/customizer.php:31
+msgid "Upgrade to aneeq Premium"
+msgstr ""
+
+#: include/customizer.php:34
+msgid "Aneeq Premium - Features"
+msgstr ""
+
+#: include/customizer.php:36
+msgid "Responsive Design"
+msgstr ""
+
+#: include/customizer.php:37
+msgid "Translation Ready"
+msgstr "बदलाव स्लाइड गति"
+
+#: include/customizer.php:38
+msgid "Multi Purpose"
+msgstr ""
+
+#: include/customizer.php:39
+msgid "High Performance"
+msgstr ""
+
+#: include/customizer.php:40
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: include/customizer.php:41
+msgid "Blog Template"
+msgstr "ब्लॉग पृष्ठ लेआउट"
+
+#: include/customizer.php:42
+msgid "Multi Color Option"
+msgstr ""
+
+#: include/customizer.php:43
+msgid "Advanced Typography"
+msgstr ""
+
+#: include/customizer.php:44
+msgid "Flickr Photo Stream Widget"
+msgstr "फ़्लिकर फोटोस्ट्रीम"
+
+#: include/customizer.php:45
+msgid "Woo-commerce Compatible"
+msgstr ""
+
+#: include/customizer.php:46 include/customizer.php:139
+msgid "Theme Layout"
+msgstr "थीम लेआउट"
+
+#: include/customizer.php:47
+msgid "Ultimate Portfolio layout with Isotope effect"
+msgstr ""
+
+#: include/customizer.php:48
+msgid "Home Page Active/Inactive Sections"
+msgstr "फ्रंट पेज निष्क्रिय अनुभाग"
+
+#: include/customizer.php:49
+msgid "Support Access"
+msgstr ""
+
+#: include/customizer.php:50
+msgid "Homepage Section Draggable"
+msgstr ""
+
+#: include/customizer.php:54
+msgid "Buy Now"
+msgstr ""
+
+#: include/customizer.php:57
+msgid "Found Useful Aneeq?"
+msgstr ""
+
+#: include/customizer.php:60
+msgid ""
+"If you Like our Theme , Please do Rate us on WordPress.org  We'd really appreciate it!"
+msgstr ""
+
+#: include/customizer.php:64
+msgid "Rate US"
+msgstr ""
+
+#: include/customizer.php:67
+msgid "Our Top Featured Recommended Plugins"
+msgstr ""
+
+#: include/customizer.php:69
+msgid "Blog Filter Gallery"
+msgstr ""
+
+#: include/customizer.php:72
+msgid "Portfolio Filter Gallery"
+msgstr "पोर्टफोलियो श्रेणी"
+
+#: include/customizer.php:82
+msgid "Theme Options"
+msgstr "अनीक थीम विकल्प"
+
+#: include/customizer.php:89
+msgid "Upgrade to Premium"
+msgstr ""
+
+#: include/customizer.php:100
+msgid "Aneeq Premium"
+msgstr "अनीक थीम"
+
+#: include/customizer.php:109
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स"
+
+#: include/customizer.php:123
+msgid "Theme Color"
+msgstr "थीम रंग"
+
+#: include/customizer.php:144
+msgid "Wide Layout"
+msgstr "वाइड लेआउट"
+
+#: include/customizer.php:145
+msgid "Box Layout"
+msgstr "बॉक्स लेआउट"
+
+#: include/customizer.php:158
+msgid "Boxed Layout Background Image"
+msgstr "बॉक्स लेआउट पृष्ठभूमि छवि"
+
+#: include/customizer.php:162
+msgid "Crossed Stripes"
+msgstr ""
+
+#: include/customizer.php:163
+msgid "Classy Fabric"
+msgstr ""
+
+#: include/customizer.php:164
+msgid "Low Contrast Linen"
+msgstr ""
+
+#: include/customizer.php:165
+msgid "Wood"
+msgstr ""
+
+#: include/customizer.php:166
+msgid "Diamonds"
+msgstr ""
+
+#: include/customizer.php:167
+msgid "Triangles"
+msgstr ""
+
+#: include/customizer.php:168
+msgid "Black Mamba"
+msgstr ""
+
+#: include/customizer.php:169
+msgid "Vichy"
+msgstr ""
+
+#: include/customizer.php:170
+msgid "Back Pattern"
+msgstr ""
+
+#: include/customizer.php:171
+msgid "Checkered Pattern"
+msgstr ""
+
+#: include/customizer.php:172
+msgid "Diamond Upholstery"
+msgstr ""
+
+#: include/customizer.php:173
+msgid "Lyonnette"
+msgstr ""
+
+#: include/customizer.php:174
+msgid "Graphy"
+msgstr ""
+
+#: include/customizer.php:175
+msgid "Black Thread"
+msgstr ""
+
+#: include/customizer.php:176
+msgid "Subtlenet"
+msgstr ""
+
+#: include/customizer.php:199
+msgid "Page Layout"
+msgstr "पृष्ठ लेआउट"
+
+#: include/customizer.php:200
+msgid "Sidebar setting for single Page"
+msgstr "एकल पृष्ठ के लिए साइडबार सेटिंग"
+
+#: include/customizer.php:204 include/customizer.php:224 include/customizer.php:263
+msgid "Left Sidebar"
+msgstr "बाईं साइडबार"
+
+#: include/customizer.php:205 include/customizer.php:225 include/customizer.php:264
+msgid "Full width (no sidebar)"
+msgstr "पूर्ण चौड़ाई (कोई साइडबार नहीं)"
+
+#: include/customizer.php:206 include/customizer.php:226 include/customizer.php:265
+msgid "Right Sidebar"
+msgstr "दायें साइडबार"
+
+#: include/customizer.php:219
+msgid "Blog Single Post Layout"
+msgstr "ब्लॉग एकल पृष्ठ लेआउट"
+
+#: include/customizer.php:220
+msgid "Sidebar setting for single blog post"
+msgstr "एकल ब्लॉग पोस्ट के लिए साइडबार सेटिंग"
+
+#: include/customizer.php:239
+msgid "Static Page Content"
+msgstr "स्थैतिक पृष्ठ सामग्री"
+
+#: include/customizer.php:240
+msgid "Hide/Show Page or Post Content from Homepage"
+msgstr "मुखपृष्ठ से पृष्ठ या पोस्ट सामग्री छुपाएं"
+
+#: include/customizer.php:244 include/customizer.php:1647
+msgid "Show"
+msgstr "प्रदर्शन"
+
+#: include/customizer.php:245 include/customizer.php:1648
+msgid "Hide"
+msgstr "छिपाना"
+
+#: include/customizer.php:258
+msgid "Homepage Blog layout"
+msgstr "ब्लॉग पृष्ठ लेआउट"
+
+#: include/customizer.php:259
+msgid "Required: Set Static Page Content as Show"
+msgstr "आवश्यक: शो के रूप में स्थिर पृष्ठ सामग्री सेट करें"
+
+#: include/customizer.php:274
+msgid "Header Settings"
+msgstr "हैडर सेटिंग्स"
+
+#: include/customizer.php:287
+msgid "Site Logo"
+msgstr "साइट लोगो"
+
+#: include/customizer.php:288
+msgid "Select the logo type you want display as your site logo."
+msgstr "अपनी साइट लोगो के रूप में प्रदर्शित होने वाला लोगो प्रकार चुनें।"
+
+#: include/customizer.php:292 include/customizer.php:305
+msgid "Text"
+msgstr "टेक्स्ट"
+
+#: include/customizer.php:293 include/customizer.php:330
+msgid "Image"
+msgstr "छवि"
+
+#: include/customizer.php:308
+msgid "Type in the text to set as your site logo."
+msgstr "अपनी साइट का लोगो के रूप में सेट करने के लिए टेक्स्ट में टाइप करें।"
+
+#: include/customizer.php:332
+msgid ""
+"Select the image you want display as your site logo. NOTE : Upload Logo \"272x45\" size "
+"for Best Look."
+msgstr "अपनी साइट लोगो के रूप में प्रदर्शित छवि को चुनें।"
+
+#: include/customizer.php:357
+msgid "Header Max Height (px)"
+msgstr "हैडर अधिकतम ऊंचाई (पिक्सेल)"
+
+#: include/customizer.php:360
+msgid "Header height in pixels. [default: 10]"
+msgstr "पिक्सल में हैडर की ऊंचाई [डिफ़ॉल्ट: 10]"
+
+#: include/customizer.php:369
+msgid "HomePage Slider Settings"
+msgstr "मुखपृष्ठ स्लाइडर सेटिंग्स"
+
+#: include/customizer.php:370
+msgid "You can add up to 3 images in the slider. "
+msgstr "आप स्लाइडर में 5 छवियों को जोड़ सकते हैं"
+
+#: include/customizer.php:384
+msgid "Slider Section"
+msgstr "स्लाइडर अनुभाग"
+
+#: include/customizer.php:389 include/customizer.php:768 include/customizer.php:1159
+#: include/customizer.php:1247 include/customizer.php:1314 include/customizer.php:1629
+msgid "Inactive"
+msgstr "निष्क्रिय"
+
+#: include/customizer.php:401
+msgid "Slider Speed"
+msgstr "स्लाइडर स्पीड"
+
+#: include/customizer.php:404
+msgid "Slider speed in miliseconds. [default: 2500]"
+msgstr "मिलीसेकंड में स्लाइडर की गति। [डिफ़ॉल्ट: 2500]"
+
+#: include/customizer.php:418
+msgid "Slider Autoplay"
+msgstr "स्लाइडर ऑटोप्ले"
+
+#: include/customizer.php:422
+msgid "Enable"
+msgstr "सक्षम करें"
+
+#: include/customizer.php:423
+msgid "Disable"
+msgstr "अक्षम"
+
+#: include/customizer.php:438
+msgid "Slide One"
+msgstr "स्लाइडर एक"
+
+#: include/customizer.php:453
+msgid "Upload your image for the slide one"
+msgstr "स्लाइड के लिए अपनी छवि अपलोड करें"
+
+#: include/customizer.php:471
+msgid "Title for the slide one"
+msgstr "स्लाइड के लिए शीर्षक"
+
+#: include/customizer.php:486 include/customizer.php:580 include/customizer.php:675
+msgid "Slider Description"
+msgstr "स्लाइडर विवरण"
+
+#: include/customizer.php:501 include/customizer.php:595 include/customizer.php:691
+msgid "Button Link"
+msgstr "बटन लिंक"
+
+#: include/customizer.php:516 include/customizer.php:610 include/customizer.php:706
+msgid "Button Text"
+msgstr "बटन टेक्स्ट "
+
+#: include/customizer.php:533
+msgid "Slide Two"
+msgstr "स्लाइडर दो"
+
+#: include/customizer.php:548
+msgid "Upload your image for the slide two"
+msgstr "स्लाइड दो के लिए अपनी छवि अपलोड करें"
+
+#: include/customizer.php:565
+msgid "Title for the slide two"
+msgstr "स्लाइड दो के लिए शीर्षक"
+
+#: include/customizer.php:627
+msgid "Slide Three"
+msgstr "स्लाइडर तीन"
+
+#: include/customizer.php:642
+msgid "Upload your image for the slide three"
+msgstr "स्लाईड तीन के लिए अपनी छवि अपलोड करें"
+
+#: include/customizer.php:660
+msgid "Title for the slide three"
+msgstr "स्लाइड के लिए शीर्षक तीन"
+
+#: include/customizer.php:749
+msgid "HomePage Service Settings"
+msgstr "मुखपृष्ठ सेवा सेटिंग्स"
+
+#: include/customizer.php:763
+msgid "Service Section"
+msgstr "सेवा अनुभाग"
+
+#: include/customizer.php:780 include/customizer.php:886 include/customizer.php:952
+#: include/customizer.php:1015 include/customizer.php:1078 include/customizer.php:1171
+#: include/customizer.php:1259
+msgid "Title"
+msgstr "शीर्षक"
+
+#: include/customizer.php:795 include/customizer.php:902 include/customizer.php:967
+#: include/customizer.php:1030 include/customizer.php:1093 include/customizer.php:1186
+#: include/customizer.php:1274
+msgid "Description"
+msgstr "विवरण"
+
+#: include/customizer.php:812
+msgid "Design Settings"
+msgstr "डिज़ाइन सेटिंग्स"
+
+#: include/customizer.php:816
+msgid "Layout 1"
+msgstr "लेआउट 1"
+
+#: include/customizer.php:817
+msgid "Layout 2"
+msgstr "लेआउट 2"
+
+#: include/customizer.php:831 include/customizer.php:1202
+msgid "Column Settings (Only For Desktop)"
+msgstr "कॉलम सेटिंग्स (केवल डेस्कटॉप के लिए)"
+
+#: include/customizer.php:835 include/customizer.php:1206
+msgid "4 Column"
+msgstr "4 कॉलम"
+
+#: include/customizer.php:836
+msgid "3 Column"
+msgstr "3 कॉलम"
+
+#: include/customizer.php:837 include/customizer.php:1207
+msgid "2 Column"
+msgstr "2 कॉलम"
+
+#: include/customizer.php:852
+msgid "Service One"
+msgstr "सर्विस एक"
+
+#: include/customizer.php:869 include/customizer.php:936 include/customizer.php:1000
+#: include/customizer.php:1063
+msgid "Service Icon"
+msgstr "सेवा चिह्न"
+
+#: include/customizer.php:919
+msgid "Service Two"
+msgstr "सर्विस दो"
+
+#: include/customizer.php:984
+msgid "Service Three"
+msgstr "सर्विस तीन"
+
+#: include/customizer.php:1047
+msgid "Service Four"
+msgstr "सर्विस चार"
+
+#: include/customizer.php:1138
+msgid "HomePage Blog Settings"
+msgstr "मुखपृष्ठ ब्लॉग सेटिंग्स"
+
+#: include/customizer.php:1139
+msgid "You can change blog page layout and single blog page layout from here."
+msgstr "आप यहां से ब्लॉग पेज लेआउट और एकल ब्लॉग पेज लेआउट बदल सकते हैं।"
+
+#: include/customizer.php:1153
+msgid "Blog Section"
+msgstr "ब्लॉग सेटिंग"
+
+#: include/customizer.php:1228
+msgid "Homepage Woocommerce Settings"
+msgstr "मुखपृष्ठ Woocommerce सेटिंग्स"
+
+#: include/customizer.php:1241
+msgid "Woocommerce Section"
+msgstr "Woocommerce अनुभाग"
+
+#: include/customizer.php:1295
+msgid "Topbar Settings"
+msgstr "टॉपबार सेटिंग"
+
+#: include/customizer.php:1309
+msgid "Topbar Section"
+msgstr "टॉपबार अनुभाग"
+
+#: include/customizer.php:1328
+msgid "Contact Details"
+msgstr "संपर्क विवरण"
+
+#: include/customizer.php:1344
+msgid "Phone"
+msgstr "फ़ोन"
+
+#: include/customizer.php:1360
+msgid "Email"
+msgstr "ईमेल"
+
+#: include/customizer.php:1375
+msgid "Email URL"
+msgstr "ईमेल :"
+
+#: include/customizer.php:1392
+msgid "Social Media"
+msgstr "सोशल मीडिया"
+
+#: include/customizer.php:1393
+msgid "Social Media icons will disappear if you leave it blank"
+msgstr "यदि आप इसे खाली छोड़ देते हैं तो सोशल मीडिया आइकन गायब हो जाएंगे"
+
+#: include/customizer.php:1410
+msgid "Disable Facebook link?"
+msgstr "फेसबुक लिंक अक्षम करें?"
+
+#: include/customizer.php:1423
+msgid "Enter your Facebook URL."
+msgstr "अपना फेसबुक यूआरएल दर्ज करें"
+
+#: include/customizer.php:1439
+msgid "Disable Twitter link?"
+msgstr "ट्विटर लिंक अक्षम करें?"
+
+#: include/customizer.php:1452
+msgid "Enter your Twitter URL."
+msgstr "अपना ट्विटर यूआरएल दर्ज करें"
+
+#: include/customizer.php:1468
+msgid "Disable Google+ link?"
+msgstr "गूगल प्लस  लिंक अक्षम करें?"
+
+#: include/customizer.php:1481
+msgid "Enter your Google+ URL."
+msgstr "अपना गूगल प्लस यूआरएल दर्ज करें"
+
+#: include/customizer.php:1497
+msgid "Disable Instagram link?"
+msgstr "इंस्टाग्राम लिंक अक्षम करें?"
+
+#: include/customizer.php:1510
+msgid "Enter your Instagram URL."
+msgstr "अपना इंस्टाग्राम यूआरएल दर्ज करें"
+
+#: include/customizer.php:1525
+msgid "Disable YouTube link?"
+msgstr "यूट्यूब लिंक अक्षम करें?"
+
+#: include/customizer.php:1538
+msgid "Enter your YouTube URL."
+msgstr "कृपया अपना यूट्यूब यूआरएल दर्ज करें।"
+
+#: include/customizer.php:1554
+msgid "Disable RSS link?"
+msgstr "आरएसएस लिंक अक्षम करें?"
+
+#: include/customizer.php:1567
+msgid "Enter your RSS URL."
+msgstr "कृपया अपना आरएसएस यूआरएल दर्ज करें।"
+
+#: include/customizer.php:1610
+msgid "Footer Settings"
+msgstr "पाद लेख सेटिंग्स"
+
+#: include/customizer.php:1623
+msgid "Widgets Section"
+msgstr "विजेट अनुभाग"
+
+#: include/customizer.php:1643
+msgid "Footer Social Icons"
+msgstr "पाद लेख सामाजिक प्रतीक"
+
+#: include/customizer.php:1662
+msgid "Footer Column Layout"
+msgstr "पाद लेख स्तंभ लेआउट"
+
+#: include/customizer.php:1666
+msgid "One Column"
+msgstr "एक कॉलम"
+
+#: include/customizer.php:1667
+msgid "Two Column"
+msgstr "दो कॉलम"
+
+#: include/customizer.php:1668
+msgid "Three Column"
+msgstr "तीन कॉलम"
+
+#: include/customizer.php:1669
+msgid "Four Column"
+msgstr "चार कॉलम"
+
+#: include/header_image_customizer.php:23
+msgid "Custom header settings"
+msgstr "हैडर सेटिंग्स"
+
+#: include/header_image_customizer.php:31
+msgid "Header Headline"
+msgstr "हैडर सेटिंग्स"
+
+#: include/header_image_customizer.php:42
+msgid "Header Text"
+msgstr "अधिक पाठ पढ़ें"
+
+#: include/widgets/footer-bottom.php:17
+msgid "Aneeq WordPress Theme By A WP Life"
+msgstr ""
+
+#: include/widgets/footer-bottom.php:17
+msgid "Powered by "
+msgstr ""
+
+#: include/widgets/footer-bottom.php:18
+msgid "WordPress.org"
+msgstr ""
+
+#: index-blog.php:46 index-blog.php:64 index-blog.php:77 index-blog.php:90
+msgid "Read more"
+msgstr "और पढो"
+
+#: index-blog.php:59
+msgid "Easy steps to make your espresso coffee taste great"
+msgstr ""
+
+#: index-blog.php:61
+msgid "April 23, 2018"
+msgstr ""
+
+#: index-blog.php:63
+msgid ""
+"A coffee break in the United States and elsewhere is a short mid-morning rest period "
+"granted to employees in business and industry. An afternoon coffee break, or afternoon "
+"tea, often occurs as well. The coffee break originated in the late 19th century in "
+"Stoughton, Wisconsin, with the wives of Norwegian immigrants. The city celebrates this "
+"every year with the Stoughton..."
+msgstr ""
+
+#: index-blog.php:72
+msgid "The proper way to dress up for the business meeting"
+msgstr ""
+
+#: index-blog.php:74
+msgid "November 23, 2017"
+msgstr ""
+
+#: index-blog.php:76
+msgid ""
+"Quisque dictum eros nisl, a maximus massa accumsan non. Aliquam erat volutpat. Quisque "
+"at finibus dui. Praesent cursus, dui sed tempus mollis, turpis ex porta lacus, ut "
+"egestas justo nibh in nisi. Donec arcu enim, congue in nunc ut, cursus sollicitudin "
+"urna. Pellentesque magna purus, accumsan varius mi et, gravida consectetur purus. Etiam "
+"mattis molestie aliquet..."
+msgstr ""
+
+#: index-blog.php:85
+msgid "First steps in the right direction"
+msgstr ""
+
+#: index-blog.php:87
+msgid "Dec 18, 2017"
+msgstr ""
+
+#: index-blog.php:89
+msgid ""
+"Morbi eu ante mollis, elementum tortor in, hendrerit libero. Maecenas feugiat rhoncus "
+"magna, at consequat libero dictum eget. Donec gravida odio erat, vel ullamcorper lacus "
+"faucibus vitae. Mauris hendrerit at justo ac dapibus. Nulla venenatis malesuada nisi "
+"eget aliquam. Ut dignissim elit sed ipsum malesuada, et vestibulum sapien consectetur..."
+msgstr ""
+
+#: index-wooproduct.php:55
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: index-wooproduct.php:55
+msgid "out of 5"
+msgstr ""
+
+#: search.php:13
+msgid "Search results for :"
+msgstr "खोज परिणाम:"
+
+#: tag.php:12
+msgid "Tag Archive"
+msgstr "टैग पुरालेख"
+
+#: woocommerce.php:12 woocommerce.php:26
+msgid "Shop"
+msgstr ""
+
+#: woocommerce.php:13 woocommerce.php:27
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Footer Settings"
+#~ msgid "Footer Widget"
+#~ msgstr "पाद लेख सेटिंग्स"
+
+#, fuzzy
+#~ msgid "$aneeq_description_text"
+#~ msgstr "कॉलआउट विवरण टेक्स्ट"
+
+#~ msgid "| by"
+#~ msgstr "| द्वारा"
+
+#~ msgid "| Built using WordPress and Aneeq Theme"
+#~ msgstr "| WordPress और Aneeq थीम का उपयोग कर निर्मित"
+
+#, fuzzy
+#~ msgid "Icon"
+#~ msgstr "चिह्न 1"
+
+#~ msgid "Icon 2"
+#~ msgstr "चिह्न 2"
+
+#~ msgid "Icon 3"
+#~ msgstr "चिह्न 3"
+
+#~ msgid "Icon 4"
+#~ msgstr "चिह्न 4"
+
+#, fuzzy
+#~ msgid "Fast & Effective Solutions"
+#~ msgstr "फ्रंट पेज सक्रिय अनुभाग"
+
+#~ msgid "Email:"
+#~ msgstr "ईमेल: "
+
+#, fuzzy
+#~ msgid "Phone:"
+#~ msgstr "फ़ोन"
+
+#~ msgid "Prev"
+#~ msgstr "पिछला"
+
+#~ msgid "Social Media URLs"
+#~ msgstr "सोशल मीडिया यूआरएल"
+
+#~ msgid "Facebook URL"
+#~ msgstr "फेसबुक युआरएल"
+
+#~ msgid "Please enter your facebook url."
+#~ msgstr "कृपया अपना फेसबुक यूआरएल दर्ज करें"
+
+#~ msgid "Twitter URL"
+#~ msgstr "ट्विटर यूआरएल"
+
+#~ msgid "Please enter your twitter url."
+#~ msgstr "कृपया अपना ट्विटर यूआरएल दर्ज करें"
+
+#~ msgid "Skype URL"
+#~ msgstr "स्काइप यूआरएल"
+
+#~ msgid "Please enter your skype url."
+#~ msgstr "कृपया अपना स्काइप यूआरएल दर्ज करें।"
+
+#~ msgid "Icon Two"
+#~ msgstr "चिह्न दो"
+
+#~ msgid "Icon Three"
+#~ msgstr "चिह्न तीन"
+
+#~ msgid "Icon Four"
+#~ msgstr "चिह्न चार"
+
+#~ msgid "Enter Fact Value"
+#~ msgstr "तथ्य मूल्य दर्ज करें"
+
+#~ msgid "Select Fun Fact Value"
+#~ msgstr "मजेदार तथ्यों का चयन करें"
+
+#~ msgid "Please insert Fact Value."
+#~ msgstr "कृपया मूल्य का मूल्य डालें"
+
+#~ msgid "Enter Client Link URL"
+#~ msgstr "क्लाइंट लिंक यूआरएल दर्ज करें"
+
+#~ msgid "Please insert Client Link URL"
+#~ msgstr "कृपया क्लाइंट लिंक यूआरएल सम्मिलित करें"
+
+#~ msgid "Please insert Client Link URL."
+#~ msgstr "कृपया क्लाइंट लिंक यूआरएल सम्मिलित करें"
+
+#~ msgid "Full Width"
+#~ msgstr "पूर्ण चौड़ाई"
+
+#~ msgid "Protfolio Clients"
+#~ msgstr "पोर्टफोलियो ग्राहक"
+
+#~ msgid "Portfolio Company"
+#~ msgstr "पोर्टफोलियो कंपनी"
+
+#~ msgid "Portfolio Project URL"
+#~ msgstr "पोर्टफोलियो प्रोजेक्ट यूआरएल "
+
+#~ msgid "Protfolio Images"
+#~ msgstr "पोर्टफोलियो छवियाँ"
+
+#~ msgid "Delete All Images"
+#~ msgstr "सभी छवियां हटाएं"
+
+#~ msgid "Add Image"
+#~ msgstr "छवि जोड़ें"
+
+#~ msgid "Aneeq Post Format"
+#~ msgstr "अनीक पोस्ट प्रारूप"
+
+#~ msgid "Gallery"
+#~ msgstr "गेलरी"
+
+#~ msgid "Video"
+#~ msgstr "वीडियो"
+
+#~ msgid ""
+#~ "Select the media type you want to show on your post. <span class=\"image_note"
+#~ "\">( Note :- In Image Option Featured Image Will Be Displayed. )</span>"
+#~ msgstr ""
+#~ "वह मीडिया प्रकार चुनें, जिसे आप अपनी पोस्ट पर दिखाना चाहते हैं। <span class=\"image_note"
+#~ "\">( ध्यान दें :- छवि विकल्प में छवि प्रदर्शित की जाएगी। )</span>"
+
+#~ msgid "Video Type"
+#~ msgstr "वीडियो प्रकार"
+
+#~ msgid "YouTube"
+#~ msgstr "यूट्यूब"
+
+#~ msgid "Vimeo"
+#~ msgstr "विमेओ"
+
+#~ msgid "Video ID"
+#~ msgstr "वीडियो आईडी"
+
+#~ msgid "Gallery Box"
+#~ msgstr "गैलरी बॉक्स"
+
+#~ msgid "Read More Link Url"
+#~ msgstr "और पढ़ें लिंक यूआरएल"
+
+#~ msgid "Service Button Link"
+#~ msgstr "सेवा बटन लिंक"
+
+#~ msgid "Slider Button Link"
+#~ msgstr "स्लाइडर बटन लिंक"
+
+#~ msgid "Slider Button Text"
+#~ msgstr "स्लाइडर बटन पाठ"
+
+#~ msgid "Slider Button Target (Into New Tab)"
+#~ msgstr "स्लाइडर बटन लक्ष्य (नया टैब में)"
+
+#~ msgid "Icon Link Url"
+#~ msgstr "आइकन लिंक यूआरएल"
+
+#~ msgid "Designation"
+#~ msgstr "पद"
+
+#~ msgid "Enter Your Testimonial Designation."
+#~ msgstr "अपना प्रशंसापत्र पदनाम दर्ज करें"
+
+#~ msgid "Testimonial Link"
+#~ msgstr "प्रशंसापत्र लिंक"
+
+#~ msgid "Insert Your Testimonial Link."
+#~ msgstr "अपना प्रशंसापत्र लिंक डालें"
+
+#~ msgid "Testimonial Description"
+#~ msgstr "प्रशंसापत्र विवरण"
+
+#~ msgid "Insert Your Testimonial Description."
+#~ msgstr "अपना प्रशंसापत्र विवरण डालें"
+
+#~ msgid "| by "
+#~ msgstr "| द्वारा"
+
+#~ msgid "Aneeq Slider"
+#~ msgstr "अनीक स्लाइडर"
+
+#~ msgid "Add Slide"
+#~ msgstr "नई अनीक स्लाइड जोड़ें"
+
+#~ msgid "Add New Aneeq Slide"
+#~ msgstr "नई अनीक स्लाइड जोड़ें"
+
+#~ msgid "New Aneeq Slide"
+#~ msgstr "नई अनीक स्लाइड"
+
+#~ msgid "Edit Aneeq Slide"
+#~ msgstr "अनीक स्लाइड संपादित करें"
+
+#~ msgid "View Aneeq Slide"
+#~ msgstr "अनीक स्लाइड देखें"
+
+#~ msgid "All Slides"
+#~ msgstr "सभी स्लाइड्स"
+
+#~ msgid "Search Aneeq Slide"
+#~ msgstr "अनीक स्लाइड खोजें"
+
+#~ msgid "Parent Aneeq Slide:"
+#~ msgstr "अभिभावक अनीक स्लाइड:"
+
+#~ msgid "No Aneeq Slide found."
+#~ msgstr "कोई ऐनीक स्लाइड नहीं मिला"
+
+#~ msgid "No Aneeq Slide found in Trash."
+#~ msgstr "ट्रैश में कोई ऐनीक स्लाइड नहीं मिली"
+
+#~ msgid "Aneeq Service"
+#~ msgstr "अनीक सेवा"
+
+#~ msgid "Add New Service"
+#~ msgstr "नई अनीक सेवा जोड़ें"
+
+#~ msgid "Add New Aneeq Service"
+#~ msgstr "नई अनीक सेवा जोड़ें"
+
+#~ msgid "New Aneeq Service"
+#~ msgstr "नई अनीक सेवा"
+
+#~ msgid "Edit Aneeq Service"
+#~ msgstr "अनीक सेवा संपादित करें"
+
+#~ msgid "View Aneeq Service"
+#~ msgstr "अनीक सेवा देखें"
+
+#~ msgid "All Service"
+#~ msgstr "सभी सेवा"
+
+#~ msgid "Search Aneeq Service"
+#~ msgstr "अन्येक सेवा खोजें"
+
+#~ msgid "Parent Aneeq Service:"
+#~ msgstr "अभिभावक अनीक सेवा:"
+
+#~ msgid "No Aneeq Service found."
+#~ msgstr "कोई ऐनीक सेवा नहीं मिली"
+
+#~ msgid "No Aneeq Service found in Trash."
+#~ msgstr "ट्रैश में कोई ऐनीक सेवा नहीं मिली"
+
+#~ msgid "Aneeq Funfact"
+#~ msgstr "अनीक फनफैक्ट"
+
+#~ msgid "Add New Funfact"
+#~ msgstr "नई अनीक फनफैक्ट जोड़ें"
+
+#~ msgid "Add New Aneeq Funfact"
+#~ msgstr "नई अनीक फनफैक्ट जोड़ें"
+
+#~ msgid "New Aneeq Funfact"
+#~ msgstr "नई अनीक फनफैक्ट"
+
+#~ msgid "Edit Aneeq Funfact"
+#~ msgstr "अनीक फनफैक्ट संपादित करें"
+
+#~ msgid "View Aneeq Funfact"
+#~ msgstr "अनीक फनफैक्ट देखें"
+
+#~ msgid "All Funfacts"
+#~ msgstr "सभी फ़िनफ़ैक्स"
+
+#~ msgid "Search Aneeq Funfacts"
+#~ msgstr "अनीक फनफ़ैक्स खोजें"
+
+#~ msgid "Parent Aneeq Funfact:"
+#~ msgstr "माता-पिता अनीक फनफैक्ट:"
+
+#~ msgid "No Aneeq Funfacts found."
+#~ msgstr "कोई ऐनीफ़ फ़िनफ़ैक्स नहीं मिला"
+
+#~ msgid "No Aneeq Funfacts found in Trash."
+#~ msgstr "कचरा में कोई अनीक का मज़ाकिया नहीं मिला"
+
+#~ msgid "Aneeq Testimonial"
+#~ msgstr "अनीक प्रशंसापत्र"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "नई अनीक प्रशंसापत्र जोड़ें"
+
+#~ msgid "Add New Aneeq Testimonial"
+#~ msgstr "नई अनीक प्रशंसापत्र जोड़ें"
+
+#~ msgid "New Aneeq Testimonial"
+#~ msgstr "नई अनीक प्रशंसापत्र"
+
+#~ msgid "Edit Aneeq Testimonial"
+#~ msgstr "अनीक प्रशंसापत्र संपादित करें"
+
+#~ msgid "View Aneeq Testimonial"
+#~ msgstr "अनीक प्रशंसापत्र देखें"
+
+#~ msgid "All Testimonials"
+#~ msgstr "सभी प्रशंसापत्र"
+
+#~ msgid "Search Aneeq Testimonials"
+#~ msgstr "अन्येक प्रशंसापत्र खोजें"
+
+#~ msgid "Parent Aneeq Testimonial:"
+#~ msgstr "अभिभावक अनीक प्रशंसापत्र:"
+
+#~ msgid "No Aneeq Testimonials found."
+#~ msgstr "कोई अनिक प्रशंसापत्र पाया नहीं"
+
+#~ msgid "No Aneeq Testimonials found in Trash."
+#~ msgstr "कचरा में कोई अनिक प्रशंसापत्र नहीं मिला"
+
+#~ msgid "Aneeq Portfolio"
+#~ msgstr "अनीक पोर्टफोलियो"
+
+#~ msgid "Add New Portfolio"
+#~ msgstr "न्यू अनीक पोर्टफोलियो जोड़ें"
+
+#~ msgid "Add New Aneeq Portfolio"
+#~ msgstr "न्यू अनीक पोर्टफोलियो जोड़ें"
+
+#~ msgid "New Aneeq Portfolio"
+#~ msgstr "नई अनीक पोर्टफोलियो"
+
+#~ msgid "Edit Aneeq Portfolio"
+#~ msgstr "एनीक पोर्टफोलियो संपादित करें"
+
+#~ msgid "View Aneeq Portfolio"
+#~ msgstr "देखें अनीक पोर्टफोलियो"
+
+#~ msgid "All Portfolios"
+#~ msgstr "सभी पोर्टफोलियो"
+
+#~ msgid "Search Aneeq Portfolios"
+#~ msgstr "एनीक पोर्टफोलियो खोजें"
+
+#~ msgid "Parent Aneeq Portfolio:"
+#~ msgstr "अभिभावक अनीक पोर्टफोलियो:"
+
+#~ msgid "No Aneeq Portfolios found."
+#~ msgstr "कोई ऐनीक पोर्टफोलियो नहीं मिला"
+
+#~ msgid "No Aneeq Portfolios found in Trash."
+#~ msgstr "कचरा में कोई अनीक पोर्टफोलियो नहीं मिला"
+
+#~ msgid "Portfolio Categories"
+#~ msgstr "पोर्टफोलियो श्रेणियाँ"
+
+#~ msgid "Search Portfolio Categories"
+#~ msgstr "पोर्टफोलियो श्रेणियों खोजें"
+
+#~ msgid "All Portfolio Categories"
+#~ msgstr "सभी पोर्टफोलियो श्रेणियाँ"
+
+#~ msgid "Parent Portfolio Category"
+#~ msgstr "अभिभावक पोर्टफोलियो श्रेणी"
+
+#~ msgid "Parent Portfolio Category:"
+#~ msgstr "अभिभावक पोर्टफोलियो श्रेणी"
+
+#~ msgid "Edit Portfolio Category"
+#~ msgstr "पोर्टफोलियो श्रेणी संपादित करें"
+
+#~ msgid "Update Portfolio Category"
+#~ msgstr "पोर्टफोलियो श्रेणी का अद्यतन करें"
+
+#~ msgid "Add New Portfolio Category"
+#~ msgstr "नई पोर्टफ़ोलियो श्रेणी जोड़ें"
+
+#~ msgid "New Portfolio Category Name"
+#~ msgstr "नया पोर्टफोलियो श्रेणी नाम"
+
+#~ msgid "Add Team Member"
+#~ msgstr "नई टीम सदस्य जोड़ें"
+
+#~ msgid "Add New Team Member"
+#~ msgstr "नई टीम सदस्य जोड़ें"
+
+#~ msgid "New Team Member"
+#~ msgstr "नई टीम सदस्य"
+
+#~ msgid "Edit Team Member"
+#~ msgstr "टीम के सदस्य को संपादित करें"
+
+#~ msgid "View Team Member"
+#~ msgstr "टीम के सदस्य देखें"
+
+#~ msgid "All Team Members"
+#~ msgstr "सभी टीम के सदस्य"
+
+#~ msgid "Search Team Member"
+#~ msgstr "सर्च टीम सदस्य"
+
+#~ msgid "Parent Team Member:"
+#~ msgstr "अभिभावक टीम सदस्य:"
+
+#~ msgid "No Team Member found."
+#~ msgstr "कोई टीम सदस्य नहीं मिला"
+
+#~ msgid "No Team Member found in Trash."
+#~ msgstr "ट्रैश में कोई टीम सदस्य नहीं मिला"
+
+#~ msgid "Aneeq Our Client"
+#~ msgstr "अनीक हमारा ग्राहक"
+
+#~ msgid "Add Our Client"
+#~ msgstr "नया हमारे ग्राहक जोड़ें"
+
+#~ msgid "Add New Our Client"
+#~ msgstr "नया हमारे ग्राहक जोड़ें"
+
+#~ msgid "New Our Client"
+#~ msgstr "नया हमारा ग्राहक"
+
+#~ msgid "Edit Our Client"
+#~ msgstr "हमारे ग्राहक को संपादित करें"
+
+#~ msgid "View Our Client"
+#~ msgstr "हमारे ग्राहक देखें"
+
+#~ msgid "All Our Clients"
+#~ msgstr "हमारे सभी ग्राहक"
+
+#~ msgid "Search Our Client"
+#~ msgstr "हमारे ग्राहक खोजें"
+
+#~ msgid "Parent Our Client:"
+#~ msgstr "अभिभावक हमारे ग्राहक:"
+
+#~ msgid "No Our Client found."
+#~ msgstr "हमारे ग्राहक नहीं मिला"
+
+#~ msgid "No Our Client found in Trash."
+#~ msgstr "कचरा में हमारा कोई ग्राहक नहीं मिला"
+
+#~ msgid "Funfact Settings"
+#~ msgstr "फ़िनफ़ैक्ट सेटिंग्स"
+
+#~ msgid "Testimonials Settings"
+#~ msgstr "प्रशंसापत्र सेटिंग्स"
+
+#~ msgid "Portfolio Settings"
+#~ msgstr "पोर्टफोलियो सेटिंग्स"
+
+#~ msgid "Post Slides"
+#~ msgstr "पोस्ट स्लाइड"
+
+#~ msgid "Team Member"
+#~ msgstr "टीम के सदस्य"
+
+#~ msgid "Our Client"
+#~ msgstr "टीम के सदस्य"
+
+#~ msgid "Page Option"
+#~ msgstr "पृष्ठ विकल्प"
+
+#~ msgid "Save Options"
+#~ msgstr "विकल्प सहेजें"
+
+#~ msgid "Restore Defaults"
+#~ msgstr "डिफॉल्ट्स का पुनःस्थापन"
+
+#~ msgid "404 Heading*"
+#~ msgstr "404 शीर्ष लेख *"
+
+#~ msgid "This text will be shown with big font size below icon"
+#~ msgstr "यह पाठ आइकन के नीचे बड़े फ़ॉन्ट आकार के साथ दिखाया जाएगा"
+
+#~ msgid "404 Description*"
+#~ msgstr "404 विवरण *"
+
+#~ msgid "This text will be appear below the big heading text"
+#~ msgstr "यह पाठ बड़े शीर्ष लेख के नीचे दिखाई देगा"
+
+#~ msgid "This text will be appear below the big icon text"
+#~ msgstr "यह टेक्स्ट बड़ा आइकन पाठ के नीचे दिखाई देगा"
+
+#~ msgid "404 Button Icon*"
+#~ msgstr "404 बटन आइकन *"
+
+#~ msgid "Select icon that appear in top with big size."
+#~ msgstr "बड़ा आकार के साथ शीर्ष पर दिखाई देने वाले आइकन का चयन करें"
+
+#~ msgid "Enter 404 button link here"
+#~ msgstr "404 बटन लिंक यहां दर्ज करें"
+
+#~ msgid "Show / Hide Fun Facts"
+#~ msgstr "मज़ा तथ्य दिखाएँ / छुपाएं"
+
+#~ msgid "Show or Hide skills part into About Us page. "
+#~ msgstr "हमारे बारे में पृष्ठ में कौशल भाग दिखाएँ या छुपाएं।"
+
+#~ msgid "Yes"
+#~ msgstr "हाँ"
+
+#~ msgid "No"
+#~ msgstr "नहीं"
+
+#~ msgid "Show / Hide CallOut Area"
+#~ msgstr "कॉलओट एरिया दिखाएँ / छुपाएं"
+
+#~ msgid "Show or Hide \"CallOut Area\" section into About Us page. "
+#~ msgstr "हमारे बारे में पेज में \\ \"कॉलऑफ एरिया \" अनुभाग को दिखाएँ या छिपाएं"
+
+#~ msgid "Show / Hide Our Team"
+#~ msgstr "हमारी टीम को दिखाना / छुपाएं"
+
+#~ msgid "Show or Hide \"Our Team\" section into About Us page. "
+#~ msgstr "हमारे बारे में पृष्ठ में \\ \"हमारी टीम \" अनुभाग दिखाएं या छिपाएं"
+
+#~ msgid "Blog Section Heading"
+#~ msgstr "ब्लॉग अनुभाग शीर्षक"
+
+#~ msgid "Write your Blog Section Heading."
+#~ msgstr "अपना ब्लॉग अनुभाग शीर्षक लिखें"
+
+#~ msgid "Blog Section Description"
+#~ msgstr "ब्लॉग अनुभाग विवरण"
+
+#~ msgid "Write your Blog Section Description."
+#~ msgstr "अपना ब्लॉग अनुभाग विवरण लिखें"
+
+#~ msgid "Autoplay Blog Posts"
+#~ msgstr "ऑटोप्ले ब्लॉग पोस्ट"
+
+#~ msgid "Blog Posts Slide Interval"
+#~ msgstr "ब्लॉग पोस्ट स्लाइड अंतराल"
+
+#~ msgid "Callout Title"
+#~ msgstr "कॉलआउट शीर्षक"
+
+#~ msgid "Write your callout area title text"
+#~ msgstr "अपना कॉलआउट क्षेत्र शीर्षक पाठ लिखें"
+
+#~ msgid "Write your callout area description text"
+#~ msgstr "अपना कॉलआउट एरिया विवरण टेक्स्ट लिखें"
+
+#~ msgid "Callout Button Text"
+#~ msgstr "कॉलआउट बटन पाठ"
+
+#~ msgid "You can set callout button link"
+#~ msgstr "आप कॉलआउट बटन लिंक सेट कर सकते हैं"
+
+#~ msgid "Callout Button Link"
+#~ msgstr "कॉलआउट बटन लिंक"
+
+#~ msgid "1. Map Settings"
+#~ msgstr "1. मैप सेटिंग्स"
+
+#~ msgid "Insert Map URL"
+#~ msgstr "नक्शा यूआरएल डालें"
+
+#~ msgid "How To Get Google Map URL"
+#~ msgstr "गूगल मानचित्र यूआरएल कैसे प्राप्त करें"
+
+#~ msgid "2. Form Settings"
+#~ msgstr "2. फॉर्म सेटिंग्स"
+
+#~ msgid "Form Label Text"
+#~ msgstr "फ़ॉर्म लेबल पाठ"
+
+#~ msgid "Form Description Text"
+#~ msgstr "प्रपत्र विवरण टेक्स्ट"
+
+#~ msgid "Name Place holder Text"
+#~ msgstr "नाम प्लेसहोल्डर पाठ"
+
+#~ msgid " Last Name Place holder Text"
+#~ msgstr "अंतिम नाम प्लेसहोल्डर पाठ"
+
+#~ msgid "Subject Place holder Text"
+#~ msgstr "विषय प्लेसहोल्डर पाठ"
+
+#~ msgid "Email Place holder Text"
+#~ msgstr "ईमेल प्लेसहोल्डर पाठ"
+
+#~ msgid "Message Place holder Text"
+#~ msgstr "संदेश प्लेसहोल्डर टेक्स्ट"
+
+#~ msgid "3. Contact Info Settings"
+#~ msgstr "3. संपर्क जानकारी सेटिंग्स"
+
+#~ msgid "Contact Label Text"
+#~ msgstr "संपर्क पाठ टेक्स्ट"
+
+#~ msgid "Contact Description Text"
+#~ msgstr "संपर्क विवरण टेक्स्ट"
+
+#~ msgid "Address Label Text"
+#~ msgstr "पता लेबल पाठ"
+
+#~ msgid "Address Label Icon"
+#~ msgstr "पता लेबल आइकन"
+
+#~ msgid "Address Details"
+#~ msgstr "पते का विवरण"
+
+#~ msgid "Phone Label Text"
+#~ msgstr "फोन लेबल पाठ"
+
+#~ msgid "Phone Label Icon"
+#~ msgstr "फोन लेबल आइकन"
+
+#~ msgid "Phone Details"
+#~ msgstr "फ़ोन विवरण"
+
+#~ msgid "Email Label Text"
+#~ msgstr "ईमेल लेबल पाठ"
+
+#~ msgid "Email Label Icon"
+#~ msgstr "ईमेल लेबल आइकन"
+
+#~ msgid "Email Details"
+#~ msgstr "ईमेल विवरण"
+
+#~ msgid "Website Label Text"
+#~ msgstr "वेबसाइट लेबल पाठ"
+
+#~ msgid "Website Label Icon"
+#~ msgstr "वेबसाइट लेबल आइकन"
+
+#~ msgid "Website Details"
+#~ msgstr "वेबसाइट विवरण"
+
+#~ msgid "Icon 2 Title"
+#~ msgstr "चिह्न 2 शीर्षक"
+
+#~ msgid "Icon 3 Title"
+#~ msgstr "चिह्न 3 शीर्षक"
+
+#~ msgid "Icon 4 Title"
+#~ msgstr "चिह्न 4 शीर्षक"
+
+#~ msgid "Icon 5 URL"
+#~ msgstr "चिह्न 5 यूआरएल"
+
+#~ msgid "Icon 5 Title"
+#~ msgstr "चिह्न 5 शीर्षक"
+
+#~ msgid "Icon 6 URL"
+#~ msgstr "चिह्न 6 यूआरएल"
+
+#~ msgid "Icon 6 Title"
+#~ msgstr "चिह्न 6 शीर्षक"
+
+#~ msgid "Icon 7 URL"
+#~ msgstr "चिह्न 7 यूआरएल"
+
+#~ msgid "Icon 7 Title"
+#~ msgstr "चिह्न 7 शीर्षक"
+
+#~ msgid "Icon 8 URL"
+#~ msgstr "चिह्न 8 यूआरएल"
+
+#~ msgid "Icon 8 Title"
+#~ msgstr "चिह्न 8 शीर्षक"
+
+#~ msgid "Icon 9 URL"
+#~ msgstr "चिह्न 9 यूआरएल"
+
+#~ msgid "Icon 9 Title"
+#~ msgstr "चिह्न 9 शीर्षक"
+
+#~ msgid "Icon 10 URL"
+#~ msgstr "चिह्न 10 यूआरएल"
+
+#~ msgid "Icon 10 Title"
+#~ msgstr "चिह्न 10 शीर्षक"
+
+#~ msgid "Icon 11 URL"
+#~ msgstr "चिह्न 11 यूआरएल"
+
+#~ msgid "Icon 11 Title"
+#~ msgstr "चिह्न 11 शीर्षक"
+
+#~ msgid "Aneeq Font Family*"
+#~ msgstr "अनीक फ़ॉन्ट परिवार *"
+
+#~ msgid "Select font for aneeq theme"
+#~ msgstr "एनीक थीम के लिए फ़ॉन्ट का चयन करें"
+
+#~ msgid "Font Family"
+#~ msgstr "फ़ॉन्ट परिवार"
+
+#~ msgid "Font Weight & Style"
+#~ msgstr "फ़ॉन्ट वजन और शैली"
+
+#~ msgid "Letter Spacing"
+#~ msgstr "पत्र अंतराल"
+
+#~ msgid "Set letter Spacing."
+#~ msgstr "पत्र अंतर सेट करें"
+
+#~ msgid "Select Footer Column layout View*"
+#~ msgstr "पाद लेख स्तंभ लेआउट का चयन करें देखें *"
+
+#~ msgid "Select or Choose Footer Column layout View for your footer settings."
+#~ msgstr "अपने पाद लेख सेटिंग्स के लिए पाद लेख स्तंभ लेआउट को चुनें ।"
+
+#~ msgid "Show / Hide Footer Bottom Icon"
+#~ msgstr "पाद लेख नीचे आइकन दिखाएं / छिपाएं"
+
+#~ msgid "Show or Hide social icons into footer bottom."
+#~ msgstr "पाद लेख नीचे में सामाजिक चिह्न दिखाएं या छिपाएं"
+
+#~ msgid "Footer Bottom Text"
+#~ msgstr "पाद लेख नीचे का टेक्स्ट"
+
+#~ msgid "Enter footer bottom text."
+#~ msgstr "पाद लेख नीचे टेक्स्ट दर्ज करें"
+
+#~ msgid "Footer Bottom Link Text"
+#~ msgstr "पाद लेख नीचे लिंक पाठ"
+
+#~ msgid "Enter here footer bottom link text."
+#~ msgstr "नीचे पाद लेख नीचे लिंक पाठ दर्ज करें"
+
+#~ msgid "Footer Bottom Link"
+#~ msgstr "पाद लेख नीचे लिंक"
+
+#~ msgid "Enter here footer bottom link."
+#~ msgstr "यहां पादलेख नीचे लिंक दर्ज करें"
+
+#~ msgid "Facts Section Heading"
+#~ msgstr "तथ्यों अनुभाग शीर्षक"
+
+#~ msgid "Write Fun Facts Section Heading."
+#~ msgstr "मजेदार तथ्य लिखें अनुभाग शीर्षक"
+
+#~ msgid "Facts Section Description"
+#~ msgstr "तथ्य अनुभाग विवरण"
+
+#~ msgid "Write Here Fun Facts Section Description."
+#~ msgstr "यहां लिखें मज़ा तथ्य अनुभाग विवरण"
+
+#~ msgid "Fun Facts Column Layout"
+#~ msgstr "मजेदार तथ्य कॉलम लेआउट"
+
+#~ msgid "Select how many columns of Fun Facts you want to show on Homepage."
+#~ msgstr "चुनें मजेदार तथ्यों के कितने कॉलम, जिन्हें आप मुखपृष्ठ पर दिखाना चाहते हैं।"
+
+#~ msgid "Number Of Fun Facts on Homepage"
+#~ msgstr "होमपेज पर मजेदार तथ्यों की संख्या"
+
+#~ msgid "Select how many Number of Fun Facts you want to show on Homepage."
+#~ msgstr "चुनें कि कितनी मजेदार तथ्य आप होमपेज पर दिखाना चाहते हैं।"
+
+#~ msgid "Fun Facts Background Image"
+#~ msgstr "मज़ा तथ्य पृष्ठभूमि छवि"
+
+#~ msgid "Select or upload Fun Facts Background Image."
+#~ msgstr "मज़ा तथ्य पृष्ठभूमि छवि का चयन करें या अपलोड करें।"
+
+#~ msgid "Fact Value Color*"
+#~ msgstr "तथ्य मूल्य का रंग *"
+
+#~ msgid "Custom Color for Fact Value."
+#~ msgstr "वास्तविक मूल्य के लिए कस्टम रंग"
+
+#~ msgid "Fact Title Color*"
+#~ msgstr "तथ्य शीर्षक रंग *"
+
+#~ msgid "Custom Color for Fact Title."
+#~ msgstr "तथ्य शीर्षक के लिए कस्टम रंग"
+
+#~ msgid "Enable Theme Home Page"
+#~ msgstr "थीम होम पेज को सक्षम करें"
+
+#~ msgid "Use On or Off to show home page or custom page."
+#~ msgstr "होम पेज या कस्टम पृष्ठ दिखाने के लिए ऑन या ऑफ़ का उपयोग करें"
+
+#~ msgid ""
+#~ "Custom color for skin. This is color to highlight different elements. Like text "
+#~ "links, active tabs, progress bars, active accordion and others."
+#~ msgstr ""
+#~ "त्वचा के लिए कस्टम रंग यह विभिन्न तत्वों को उजागर करने के लिए रंग है पाठ लिंक, सक्रिय टैब, प्रगति "
+#~ "बार, सक्रिय एॉर्डियन और अन्य की तरह"
+
+#~ msgid "Specify the layout for the pages"
+#~ msgstr "पृष्ठों के लिए लेआउट निर्दिष्ट करें"
+
+#~ msgid "Wide"
+#~ msgstr "चौड़ा"
+
+#~ msgid "Boxed"
+#~ msgstr "डिब्बा"
+
+#~ msgid "Select Your Boxed layout Background Image"
+#~ msgstr "अपने बॉक्सिग लेआउट पृष्ठभूमि छवि का चयन करें"
+
+#~ msgid "Google Analytic Tracking Code "
+#~ msgstr "गूगल विश्लेषणात्मक ट्रैकिंग कोड"
+
+#~ msgid "Write your google analytic section description into Input field."
+#~ msgstr "अपने गूगल विश्लेषणात्मक अनुभाग वर्णन को इनपुट फ़ील्ड में लिखें।"
+
+#~ msgid "Logo type*"
+#~ msgstr "लोगो का प्रकार *"
+
+#~ msgid "Specify the type of logo. It can Text or Image."
+#~ msgstr "लोगो का प्रकार निर्दिष्ट करें | यह पाठ या छवि कर सकते हैं"
+
+#~ msgid "Image Logo"
+#~ msgstr "छवि लोगो"
+
+#~ msgid "Logo Text*"
+#~ msgstr "लोगो पाठ *"
+
+#~ msgid "Logo Image*"
+#~ msgstr "लोगो छवि*"
+
+#~ msgid ""
+#~ "Upload image that will be used as logo for the site <br>NOTE : Upload Logo \"272x45\" "
+#~ "size for Best dimension"
+#~ msgstr ""
+#~ "अपलोड छवि जो साइट के लिए लोगो के रूप में उपयोग की जाएगी <br> नोट: सर्वश्रेष्ठ आयाम के लिए लोगो  "
+#~ "\"272x45 \" आकार अपलोड करें"
+
+#~ msgid "You can set height of header area from here"
+#~ msgstr "आप यहाँ से हैडर क्षेत्र की ऊंचाई निर्धारित कर सकते हैं"
+
+#~ msgid "You can active and deactive home page layout section by drag and drop."
+#~ msgstr "आप खींचें और ड्रॉप द्वारा सक्रिय और डीएक्टिव होम पेज लेआउट अनुभाग कर सकते हैं"
+
+#~ msgid "Use Below Settings Tabs To Configure Theme Settings"
+#~ msgstr "थीम सेटिंग्स को कॉन्फ़िगर करने के लिए नीचे सेटिंग्स टैब का उपयोग करें"
+
+#~ msgid "General"
+#~ msgstr "सामान्य"
+
+#~ msgid "Font"
+#~ msgstr "फ़ॉन्ट"
+
+#~ msgid "Header"
+#~ msgstr "हैडर"
+
+#~ msgid "Portfolio"
+#~ msgstr "पोर्टफोलियो"
+
+#~ msgid "Fun Facts"
+#~ msgstr "मजेदार तथ्य"
+
+#~ msgid "Testimonial"
+#~ msgstr "प्रशंसापत्र"
+
+#~ msgid "Blog"
+#~ msgstr "ब्लॉग"
+
+#~ msgid "Footer"
+#~ msgstr "पाद लेख"
+
+#~ msgid "404"
+#~ msgstr "404"
+
+#~ msgid "Contact"
+#~ msgstr "संपर्क"
+
+#~ msgid "Callout Area"
+#~ msgstr "कॉलआउट एरिया"
+
+#~ msgid "Font Settings"
+#~ msgstr "फ़ॉन्ट सेटिंग्स"
+
+#~ msgid "Fun Facts Settings"
+#~ msgstr "मजेदार तथ्यों सेटिंग्स"
+
+#~ msgid "Testimonial Settings"
+#~ msgstr "प्रशंसापत्र सेटिंग्स"
+
+#~ msgid "Our Client Settings"
+#~ msgstr "हमारे ग्राहक सेटिंग्स"
+
+#~ msgid "About us Settings"
+#~ msgstr "हमारे बारे में सेटिंग्स"
+
+#~ msgid "404  Settings"
+#~ msgstr "404 सेटिंग्स"
+
+#~ msgid "Callout  Settings"
+#~ msgstr "कॉलआउट सेटिंग"
+
+#~ msgid "Our Client Heading"
+#~ msgstr "हमारे क्लाइंट हेडिंग"
+
+#~ msgid "Input field for Our Client section heading."
+#~ msgstr "हमारे क्लाइंट अनुभाग शीर्षक के लिए इनपुट फ़ील्ड"
+
+#~ msgid "Our Client Section Description"
+#~ msgstr "हमारे ग्राहक अनुभाग विवरण"
+
+#~ msgid "Write your Our Client section description into Input field."
+#~ msgstr "इनपुट फ़ील्ड में अपना ग्राहक अनुभाग विवरण लिखें।"
+
+#~ msgid "Use On or Off button to Autoplay."
+#~ msgstr "ऑटोप्ले पर ऑन या ऑफ बटन का उपयोग करें"
+
+#~ msgid "Number Of Client Show"
+#~ msgstr "क्लाइंट शो की संख्या"
+
+#~ msgid "how many recent client you want to show."
+#~ msgstr "आप कितने हाल के ग्राहक को दिखाना चाहते हैं"
+
+#~ msgid "Title for the front page \"Title\" area. (For front page only)"
+#~ msgstr "सामने पृष्ठ \"शीर्षक\" क्षेत्र के लिए शीर्षक। (केवल मुख पृष्ठ के लिए)"
+
+#~ msgid "Portfolio Items"
+#~ msgstr "पोर्टफोलियो आइटम"
+
+#~ msgid ""
+#~ "Select the number of portfolio items to show on front page. (For front page only)"
+#~ msgstr "फ्रंट पेज पर दिखाने के लिए पोर्टफोलियो आइटम की संख्या का चयन करें। (केवल मुख पृष्ठ के लिए)"
+
+#~ msgid "5 <br> Items"
+#~ msgstr "5 <br> आइटम"
+
+#~ msgid "10 Items"
+#~ msgstr "10 आइटम"
+
+#~ msgid "15 Items"
+#~ msgstr "15 आइटम"
+
+#~ msgid "20 Items"
+#~ msgstr "20 आइटम"
+
+#~ msgid "Show Recent Work Limit"
+#~ msgstr "हाल की कार्य सीमा दिखाएं"
+
+#~ msgid "Select to show the number of recent work in portfolio single page."
+#~ msgstr "पोर्टफोलियो एकल पृष्ठ में हाल के काम की संख्या दिखाने के लिए चयन करें।"
+
+#~ msgid "Service Page Template"
+#~ msgstr "सेवा पृष्ठ टेम्पलेट"
+
+#~ msgid "Select options for service Templates."
+#~ msgstr "सेवा टेम्पलेट्स के लिए विकल्प चुनें।"
+
+#~ msgid "Design 1 (default)"
+#~ msgstr "डिजाइन 1 (डिफ़ॉल्ट)"
+
+#~ msgid "Design 2"
+#~ msgstr "डिजाइन 2"
+
+#~ msgid "Service Section Heading"
+#~ msgstr "सेवा अनुभाग शीर्षक"
+
+#~ msgid "Input field for service section heading."
+#~ msgstr "सेवा अनुभाग शीर्षक के लिए इनपुट फ़ील्ड"
+
+#~ msgid "Service Section Description"
+#~ msgstr "सेवा अनुभाग विवरण"
+
+#~ msgid "Write your service section description into Input field."
+#~ msgstr "इनपुट सेवा में अपना सेवा अनुभाग विवरण लिखें।"
+
+#~ msgid "Select how many columns of services you want to show on Homepage."
+#~ msgstr "होमपेज पर आप कितने सेवाओं के कॉलम दिखाना चाहते हैं।"
+
+#~ msgid "Number Of services on Homepage"
+#~ msgstr "होमपेज पर सेवाओं की संख्या"
+
+#~ msgid "Select how many Number of services you want to show on Homepage."
+#~ msgstr "चुनें कि आप होमपेज पर कितनी सेवाओं की संख्या दिखाना चाहते हैं।"
+
+#~ msgid "Write Your service button text here"
+#~ msgstr "अपनी सेवा बटन पाठ यहां लिखें"
+
+#~ msgid "Read More Link"
+#~ msgstr "और पढ़ें लिंक"
+
+#~ msgid "You can choose read more link show and hide"
+#~ msgstr "आप अधिक लिंक शो पढ़ सकते हैं और छिपाना चुन सकते हैं"
+
+#~ msgid "Autoplay Slider"
+#~ msgstr "ऑटोप्ले स्लाइडर"
+
+#~ msgid "Use On or Off button to Autoplay Slider."
+#~ msgstr "ऑटोप्ले स्लाइडर पर चालू या बंद बटन का उपयोग करें"
+
+#~ msgid "Pause On Hover."
+#~ msgstr "हॉवर पर रोकें"
+
+#~ msgid "Use On or Off to Pause slider on hover."
+#~ msgstr "होवर पर स्लाइडर को रोकने के लिए ऑन या ऑफ़ का उपयोग करें"
+
+#~ msgid "Slide show Interval"
+#~ msgstr "स्लाइड शो अंतराल"
+
+#~ msgid "Use Range Slider for Slide show Interval."
+#~ msgstr "स्लाइड शो अंतराल के लिए रेंज स्लाइडर का उपयोग करें"
+
+#~ msgid "Recent slides count"
+#~ msgstr "हाल की स्लाइड गणना"
+
+#~ msgid "how many recent slides you want to show on slider."
+#~ msgstr "स्लाइडर पर आप कितनी हाल की स्लाइड दिखाना चाहते हैं"
+
+#~ msgid "Slider Caption Alignment"
+#~ msgstr "स्लाइडर कैप्शन संरेखण"
+
+#~ msgid "Specify the type of Slider Caption Alignment"
+#~ msgstr "स्लाइडर कैप्शन संरेखण के प्रकार निर्दिष्ट करें"
+
+#~ msgid "Left"
+#~ msgstr "बाएं"
+
+#~ msgid "Center"
+#~ msgstr "केंद्र"
+
+#~ msgid "Right"
+#~ msgstr "दाईं "
+
+#~ msgid "Team Member Heading"
+#~ msgstr "टीम सदस्य हेडिंग"
+
+#~ msgid "Input field for Team Member section heading."
+#~ msgstr "टीम सदस्य अनुभाग शीर्षक के लिए इनपुट फ़ील्ड"
+
+#~ msgid "Team Member Section Description"
+#~ msgstr "टीम सदस्य अनुभाग विवरण"
+
+#~ msgid "Write your Team Member section description into Input field."
+#~ msgstr "इनपुट फील्ड में अपनी टीम का सदस्य अनुभाग वर्णन लिखें।"
+
+#~ msgid "Team Member Column Layout"
+#~ msgstr "टीम के सदस्य कॉलम लेआउट"
+
+#~ msgid "Select how many columns of Team Members you want to show on Homepage."
+#~ msgstr "चयन करें कि आप अपने होमपेज पर कितने टीम के सदस्य दिखाना चाहते हैं।"
+
+#~ msgid "Number Of Teams Member on Homepage"
+#~ msgstr "होमपेज पर टीम सदस्यों की संख्या"
+
+#~ msgid "Select how many Number of Team Member you want to show on Homepage."
+#~ msgstr "चुनें कि आप कितने टीम सदस्य की संख्या होमपेज पर दिखाना चाहते हैं।"
+
+#~ msgid "Testimonial Section Heading"
+#~ msgstr "प्रशंसापत्र अनुभाग शीर्षक"
+
+#~ msgid "Input field for testimonial section heading."
+#~ msgstr "प्रशंसापत्र अनुभाग शीर्षक के लिए इनपुट फ़ील्ड"
+
+#~ msgid "Testimonial Section Description"
+#~ msgstr "प्रशंसापत्र अनुभाग विवरण"
+
+#~ msgid "Bullets"
+#~ msgstr "बुलेट"
+
+#~ msgid "Select to enable Bullets for testimonial slide."
+#~ msgstr "प्रशंसापत्र स्लाइड के लिए बुलेट सक्षम करने के लिए चयन करें"
+
+#~ msgid "Auto play Testimonial"
+#~ msgstr "ऑटोप्ले प्रशंसापत्र"
+
+#~ msgid "Select to enable Auto play for testimonial slide."
+#~ msgstr "प्रशंसापत्र स्लाइड के लिए ऑटोप्ले सक्षम करने के लिए चयन करें"
+
+#~ msgid "Set slide changing duration ( Default is 1000)."
+#~ msgstr "स्लाइड बदलने की अवधि सेट करें (डिफ़ॉल्ट 1000 है)।"
+
+#~ msgid "Address"
+#~ msgstr "पता"
+
+#~ msgid "Title:"
+#~ msgstr "शीर्षक:"
+
+#~ msgid "Description:"
+#~ msgstr "विवरण:"
+
+#~ msgid "Phone Number:"
+#~ msgstr "फ़ोन नंबर:"
+
+#~ msgid "E-mail"
+#~ msgstr "ईमेल:"
+
+#~ msgid "Aneeq Flickr Widget"
+#~ msgstr "अनीक फ़्लिकर विजेट"
+
+#~ msgid "Flickr Account ID"
+#~ msgstr "फ़्लिकर खाता आईडी"
+
+#~ msgid "Images Limit"
+#~ msgstr "छवियां सीमाएं"
+
+#~ msgid "Share This Story"
+#~ msgstr "यह कहानी साझा करें"
+
+#~ msgid "Project Descriptions"
+#~ msgstr "परियोजना विवरण"
+
+#~ msgid "Project Details"
+#~ msgstr "परियोजना विवरण"
+
+#~ msgid "Client"
+#~ msgstr "ग्राहक"
+
+#~ msgid "Company"
+#~ msgstr "कंपनी"
+
+#~ msgid "Category"
+#~ msgstr "वर्ग"
+
+#~ msgid "Date"
+#~ msgstr "तारीख"
+
+#~ msgid "Project URL"
+#~ msgstr "प्रोजेक्ट यूआरएल"
+
+#~ msgid "Recent Work"
+#~ msgstr "हाल ही में किया गया कार्य"

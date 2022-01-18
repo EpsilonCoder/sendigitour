@@ -1,0 +1,36 @@
+.ashe-notice {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  border: none;
+}
+
+.ashe-notice .welcome-message {
+  max-width: 600px;
+  padding: 15px 0 0 30px;
+}
+
+.ashe-notice .welcome-message h1 {
+  font-size: 36px;
+  font-weight: 600;
+}
+
+.ashe-notice .welcome-message .action-buttons {
+  margin-top: 30px;
+}
+
+.ashe-notice .welcome-message .action-buttons a {
+  padding: 7px 20px;
+}
+
+.ashe-notice .welcome-message .action-buttons a:first-child {
+  margin-right: 10px;
+}
+
+.ashe-notice .image-wrap img {
+  display: block;
+  zoom: 0.5;
+}

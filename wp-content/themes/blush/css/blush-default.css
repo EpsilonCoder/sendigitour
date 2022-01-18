@@ -1,0 +1,428 @@
+/*
+* Author: A WP Life
+* Name: blush-default.css
+*/
+
+	#logo-bar {	padding : 10px 0; }
+	#logo-bar.scroll-to-fixed-fixed { padding : 10px 0; }
+	.navbar {padding-top: 10px;}
+	#logo > h2.logo-text a { color: #3c63b3 !important; } 
+		
+	/* Service Box Style
+	====================================*/
+	.serviceBox_1 .service-icon i { color: #3c63b3 !important;}
+	.serviceBox_4 .service-icon { background: #3c63b3 !important;}
+	.serviceBox_4 .service-icon:before { border: 3px solid #3c63b3 !important;}
+	.serviceBox_5  span {background:#3c63b3 !important;}
+	.serviceBox_7 .service-icon{background: #3c63b3 !important;}
+	.serviceBox_4 .read a,
+	.serviceBox_5 .read a, 
+	#site-searchform #searchsubmit, 
+	#site-searchform #searchsubmit:hover, 
+	/* #filter li.selected a:after, #filter li a:hover:after {
+		background: #3c63b3 opacity: 0, 0, 0, 0; linear-gradient(to right, #3c63b3 0%, #3c63b3 50%, #3c63b3 50%) repeat scroll 100% 0 / 200% 100%;
+	} */
+
+	/* Common Background Color Style
+	====================================*/
+	
+	.flickr-feed li .hover,
+	.progress_skill .bar,
+	.swipe-navi .swipe-left,
+	.swipe-navi .swipe-right,
+	.highlight.default,
+	.carousel-pagination li.active,
+	.theme-color-pt .pricingTable:before,
+	.pricingBlock.theme-color-pt .pricingTable-header .price-value, 
+	.slide-btn, 
+	#aneeq-slider .owl-prev:hover, 
+	#aneeq-slider .owl-next:hover, 
+	.site-content .owl-prev:hover, 
+	.site-content .owl-next:hover,
+	#aneeq-portfolio-slider .owl-prev:hover, 
+	#aneeq-portfolio-slider .owl-next:hover,
+	.masonry_blog .owl-prev:hover, 
+	.masonry_blog .owl-next:hover, 
+
+
+	.top-info li a:hover, 
+	.top-info li a:hover, 
+	.page_head, 
+	.navbar-default .navbar-nav > li > a:after, 
+
+	.navbar-nav > li.active > a,
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus,
+	.navbar-default .navbar-nav > .open > a,
+	.navbar-default .navbar-nav > .open > a:hover,
+	.navbar-default .navbar-nav > .open > a:focus, 
+
+	.navbar-nav > li > a:hover,
+	.navbar-nav > li > a:focus,
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+	.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
+	.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus, 
+
+	.navbar-nav .dropdown-menu > li > a:hover, 
+
+	.widget_social li a:hover, .widget_social li a:focus, 
+	div.widget-item h4:before, 
+	.blogPic .blog-hover .icon, 
+	.blog_large .day, .blog_single .day, 
+	.blog_medium .day, 
+	.author_desc,
+	.shares li a:hover, 
+	.comment-container:hover, 
+	.blog-section .owl-theme .owl-dots .owl-dot.active span, .blog-section .owl-theme .owl-dots .owl-dot:hover span, 
+	.testimonial-content .owl-theme .owl-dots .owl-dot.active span, .testimonial-content .owl-theme .owl-dots .owl-dot:hover span, 
+	.icon_lists .fa-hover a:hover, 
+	.testimonial-content .owl-theme .owl-controls .owl-buttons div:hover, 
+	.serviceBox_2 .service-icon, 
+	.serviceBox_4 .service-icon, 
+	.serviceBox_5> span, 
+	.serviceBox_7 .service-icon, 
+	.btn-default, 
+	.theme-color-pt .pricingTable:before,
+	.pricingTable:before, 
+	.theme-color-pt .btn-default, 
+	.progress_skill .bar, 
+	.promo_box.reverse, 
+	.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, 
+	.pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, 
+	.dividerHeading h2::before, 
+	.dividerHeading h4::before,
+	.widget-title::before, 
+	.dropcap_block, 
+	.dropcap_block.default, 
+	.highlight.default, 
+	.swipe-navi .swipe-left,
+	.swipe-navi .swipe-right, 
+	.carousel-pagination li.active, 
+	.flickr-feed li .hover, 
+	.list_style.circle li:before, 
+	.list_style.square li:before, 
+	.list-group-item.active,
+	.list-group-item.active:focus,
+	.list-group-item.active:hover, 
+	.btntoTop, 
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus, 
+	.our-client-section .owl-theme .owl-dots .owl-dot.active span, 
+	.our-client-section .owl-theme .owl-dots .owl-dot:hover span, 
+	.our-client-section .owl-theme .owl-dots .owl-dot.active span, 
+	.our-client-section .owl-theme .owl-dots .owl-dot:hover span, 
+	.widget table#wp-calendar caption, 
+	.tagcloud a:hover, 
+	.footbot_social li a:hover, .footbot_social li a:focus
+	{
+		background-color: #3c63b3 !important;
+	}
+	
+
+	/* Common Text Color Style
+	====================================*/
+	.testimonial-review small,
+	#breadcrumbs ul li:last-child a,
+	.dropcap.default,
+	.panel-heading:hover a,
+	.active_acc .panel-title a,
+	.panel-heading:hover  a,
+	.panel-heading:hover .accordian-icon,
+	.panel.panel-default i,
+	.panel .panel-title > a:before,
+	.recent_tab_list li a:hover,
+	.feature-block h4,
+	.option a.fa:hover,
+	.sidebar .widget ul.arrows_list li a:hover,
+	.sidebar .widget ul.archives_list li a:hover,
+	.parallax-testimonial-review small,
+	.footer li a:hover,.author_bio > h5 a,.author_name > a:hover,.project_details .details li a:hover, 
+	tbody a, dl dd a, .top-info span i, 
+	#logo > h2.logo-text, #logo > h2.logo-text a, 
+	#breadcrumbs ul li:last-child a,
+	#breadcrumbs ul li a, 
+	div.widget-item ul li a:hover, 
+	.sidebar .widget ul.list_style li a:hover, 
+	#filter li.selected a, #filter li a:hover, 
+	.blogTitle > a:hover h2, 
+	.blogMeta a:hover, .blogTitle span:hover, 
+	.blog_large .post_meta h2:hover a, .blog_single .post_meta h2:hover a, .blog_medium .metaInfo a:hover,
+	.blog_medium .post_meta .metaInfo > span > a:hover, 
+	.blog_medium .post_meta h2:hover a, 
+	.masonry_wrapper_blog .metaInfo a:hover,
+	.blog-item > span a:hover,
+	.blog-title a:hover, 
+	.author_name > a:hover, 
+	.author_bio > h5 a, 
+	#comment-list li .comment-container:hover a, 
+	#comment-list li .comment-container:hover .comment-date, 
+	#comment-list li .comment-container:hover h4, 
+	.post-detail a:hover, 
+	.post-detail .read-more, 
+	.post-slide a.readmore, 
+	.post-title > a:hover, 
+	.team_social li a:hover, .team_social li a:focus, 
+	.testimonial .designation .website, 
+	.serviceBox_1 .service-icon i, 
+	.serviceBox_2 .read a:hover, 
+	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, 
+	.nav-tabs li.active, .nav-tabs li.active a, .nav-tabs li.active a:hover, 
+	.recent_tab_list li a:hover, 
+	.comments_list a, 
+	.panel .panel-title > a:before, 
+	.promo_box.reverse .pb_action a.btn:hover, 
+	.dropcap.default, 
+	.multi-icon li i, 
+	.list_style li a:hover, 
+	.list_style li a.active, 
+	.list_style.star li:before, 
+	.list_style.right-arrow li:before, 
+	.list_style.hand li:before, 
+	.list_style.play li:before, 
+	.list_style.dubble-right-arrow li:before, 
+	.widget ul li a:hover, .widget ul li a:focus, 
+	.widget table#wp-calendar tbody a:hover, .widget table#wp-calendar tbody a:focus, 
+	.footer .widget a, 
+	.copyright a:hover, .copyright a:focus, 
+	.site-url a, .site-url a:hover, .site-url a:focus {
+		color: #3c63b3 !important;
+	}
+	
+	.footer .widget a {
+		color: #ffffff !important;
+	}
+	.footer .widget a:hover {
+		color: #3c63b3 !important;
+	}
+	
+	/* Tabs Style
+	====================================*/
+	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus,
+	.nav-tabs li.active, .nav-tabs li.active a, .nav-tabs li.active a:hover
+	{ border-top-color:#3c63b3 !important; color:#3c63b3 !important;}
+
+	/* List & Bullets Style
+	====================================*/
+	.list_style.square li:before,
+	.list_style.circle li:before{
+		background: #3c63b3 !important;
+	}
+
+	.list_style li a:hover,
+	.multi-icon li i.fa,
+	.list_style.star li:before,
+	.list_style.right-arrow li:before,
+	.list_style.hand li:before,
+	.list_style.play li:before,
+	.list_style.dubble-right-arrow li:before{
+		color: #3c63b3 !important;
+	}
+
+	/* Buttons & Headings Style
+	====================================*/
+	.btn-default,
+	.dropcap_block.default,
+	.icon_lists .fa-hover a:hover,
+	.dividerHeading h4::after,
+	.dividerHeading h4::before,
+	.widget_title h4::after,
+	.widget_title h4::before,
+	.widget-title::before
+	{
+		background-color:#3c63b3 !important;
+	}
+
+	.theme-color-pt .btn-default {background:#3c63b3 !important;}
+	.theme-color-pt { background-color:#3c63b3 !important;}
+	.btntoTop{background-color: #3c63b3 !important;}
+	.btntoTop.active:hover{
+		background-color: #3c63b3 !important;
+		opacity: 0.80;
+	}
+
+
+	/* Blog Page Style
+	====================================*/
+	#site-searchform #searchsubmit,
+	.tags li a:hover,
+	.shares li a:hover,
+	.blogPic .blog-hover .icon,
+	.blog_large .day, .blog_single .day,
+	.author_desc{
+		background-color: #3c63b3 !important;
+	}
+
+	#site-searchform #searchsubmit:hover{background-color:#3c63b3 !important;}
+	.blogPic .blog-hover .icon,
+	.author_desc,
+	.blog_large .day, .blog_single .day,
+	#filter li.selected a:before{background-color: #3c63b3 !important;}
+
+	.list-group-item.active,
+	.list-group-item.active:focus,
+	.list-group-item.active:hover{
+		background-color: #3c63b3 !important;
+		border-color: #3c63b3 !important;
+	}
+	.blog_medium .day{background:#3c63b3 !important;}
+	.panel.active_acc, .panel:hover{border-top-color:#3c63b3 !important;}
+	.comment-container:hover { border-color:#3c63b3 !important;}
+
+	.blogTitle > a:hover h2,
+	.blog_large .post_meta .metaInfo > span > a:hover, .blog_single .post_meta .metaInfo > span > a:hover,
+	.blogMeta a:hover, .blogTitle span:hover,
+	.blog_medium .post_meta .metaInfo > span > a:hover,
+	.blog_medium .post_meta h2:hover a,
+	.blog_large .post_meta h2:hover a, .blog_single .post_meta h2:hover a,
+	#comment-list li .comment-container:hover a,
+	#comment-list li .comment-container:hover .comment-date,
+	.comments_list a,
+	.post-title > a:hover,
+	.post-slide a.readmore:hover{
+		color: #3c63b3 !important;
+	}
+	.pager li>a, .pager li>span { color: #3c63b3 !important;}
+	.pager li>a:hover, .pager li>span:hover { background-color: #3c63b3 !important; color: #fff;}
+
+	.form-control:focus,#site-searchform #s:focus {border-color:#3c63b3 !important;box-shadow:0 1px 1px #3c63b3 opacity: 0, 0, 0, 0.075; inset, 0 0 8px #3c63b3 opacity: 204, 137, 124, 0.6;}
+	blockquote.default,.theme-color-pt .pricingTable {border-color:#3c63b3 !important;}
+
+
+	/* Navigation Menu Bar Style
+	====================================*/
+	.navbar-nav > li.active > a,
+	.navbar-default .navbar-nav > .active > a,
+	.navbar-default .navbar-nav > .active > a:hover,
+	.navbar-default .navbar-nav > .active > a:focus,
+	.navbar-default .navbar-nav > .open > a,
+	.navbar-default .navbar-nav > .open > a:hover,
+	.navbar-default .navbar-nav > .open > a:focus{
+		background: #3c63b3 !important;
+	}
+
+
+	.navbar-nav > li > a:hover,
+	.navbar-nav > li > a:focus,
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+	.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
+	.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+	.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus
+	{
+		background:#3c63b3 !important;
+	}
+	.navbar-default .navbar-nav > li > a:after {background: #3c63b3 !important;}
+	.navbar-default .navbar-nav > li > a > span.data-hover::before {background: #3c63b3 !important;}
+	.navbar-nav > li.active {
+		background: #3c63b3 !important;
+	}
+
+	.navbar-nav > li > ul:before{ border-bottom-color:#3c63b3 !important; }
+	.navbar-nav .dropdown-menu > li > a:hover{ background: #3c63b3 !important; /*color: #fff;*/}
+
+	@media only screen and (max-width: 767px) {
+		.navbar-nav > li > a:hover,.navbar-nav > li > a:focus,.navbar-nav > li.active > a,
+		.navbar-default .navbar-nav > .active > a,
+		.navbar-default .navbar-nav > .active > a:hover,
+		.navbar-default .navbar-nav > .active > a:focus,
+		.navbar-default .navbar-nav > .open > a,
+		.navbar-default .navbar-nav > .open > a:hover,
+		.navbar-default .navbar-nav > .open > a:focus,
+		.navbar-default .navbar-nav .open .dropdown-menu > .active > a,
+		.navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover,
+		.navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
+		.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a,
+		.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+		.navbar-default .navbar-nav .open .dropdown-menu > .disabled > a:focus
+		{
+			background:#3c63b3 !important;
+		}
+		.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus
+		{
+			background:#3c63b3 !important;
+		}
+	}
+
+	/* blog Pagination color setting*/
+	.pagination li span { background : #3c63b3 !important; color : #ffffff; }
+	.pagination li span:hover { background : #3c63b3 !important; color : #ffffff; }
+
+
+	/* Title bar */
+	.dividerHeading h2::before {
+		background: #3c63b3 !important;
+	}
+
+	/* header icon color */
+	.top-info span i { color: #3c63b3 !important; }
+	.top-info li a:hover {
+		border: 1px solid #3c63b3 !important;
+		background-color: #3c63b3 !important;
+		color: #3c63b3 !important;
+	}
+	.top-info li:hover a {color:#fff!important;}
+
+
+	/* logo text color */
+	#logo > h2.logo-text a { color: #3c63b3 !important; }
+
+	/* Slider caption color */
+	.slide-btn { background-color: #3c63b3 !important; }
+
+	/* service color */
+	.serviceBox_2.blue .service-icon { background: #3c63b3 none repeat scroll 0 0 !important;}
+	.serviceBox_2.blue .read a {color: #3c63b3 !important;}
+	.serviceBox_2.blue .read a:hover {
+		color: #186A89 !important;
+	}
+
+	/* blog post read more color*/
+	.post-slide a.readmore { color: #3c63b3 !important; } 
+
+	/*Border Color*/
+	#aneeq-slider .owl-prev:hover, 
+	#aneeq-slider .owl-next:hover, 
+	.site-content .owl-prev:hover, 
+	.site-content .owl-next:hover, 
+	#aneeq-portfolio-slider .owl-prev:hover, 
+	#aneeq-portfolio-slider .owl-next:hover, 
+	.masonry_blog .owl-prev:hover, 
+	.masonry_blog .owl-next:hover {  border: 2px solid #3c63b3 !important; }
+
+	.top-info li a:hover, .widget_social li a:hover, .widget_social li a:focus { border: 1px solid #3c63b3 !important; }
+	.sub_heading { border-left: 2px solid #3c63b3 !important; }
+
+	.form-control:focus,#site-searchform #s:focus { border-color: #3c63b3 !important; }
+
+	.serviceBox_4 .service-icon:before { border: #3c63b3 !important; }
+	.theme-color-pt .pricingTable,
+	.pricingTable {
+		border-bottom:3px solid #3c63b3 !important;
+	}
+	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus, 
+	.nav-tabs li.active, .nav-tabs li.active a, .nav-tabs li.active a:hover
+	{
+		
+		border-top: 1px solid #3c63b3 !important;
+	}
+	.panel.active_acc,
+	.panel:hover{ border-top-color: #3c63b3 !important; }
+
+	.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, 
+	.pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus, blockquote.default, 
+	.list-group-item.active,
+	.list-group-item.active:focus,
+	.list-group-item.active:hover {
+		border-color: #3c63b3 !important;
+	}
+
+	blockquote { border-left: 5px solid #3c63b3 !important; }
+	
+	/*woocommerce icon top color*/
+	.cart-header > a .cart-total {
+		background-color: #3c63b3 !important;
+	}

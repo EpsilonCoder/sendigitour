@@ -1,0 +1,427 @@
+/*
+Theme Name: Ashe
+
+Adding support for languages written in a Right To Left (RTL) direction is easy,
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+/* Reset */
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+
+/* Accessibility */
+.screen-reader-text:focus {
+	left: auto;
+	right: 5px;
+}
+
+blockquote {
+  border-left: none;
+  padding-left: 15px;
+  border-right-width: 3px;
+  border-right-style: solid;
+  padding-right: 15px;
+}
+
+.post-content ul {
+  padding-left: 0;
+  padding-right: 15px;
+}
+
+.post-content ol {
+  padding-left: 0;
+  padding-right: 25px;
+}
+
+table tr,
+table th,
+table td {
+  text-align: right;
+}
+
+
+/* Header */
+
+#top-menu {
+	float: right !important;
+}
+
+.top-bar-socials {
+	float: left !important;
+}
+
+.top-bar-socials a:first-child,
+.main-nav-icons a:first-child {
+	margin-left: 15px;
+}
+
+.top-bar-socials a:last-child,
+.main-nav-icons a:last-child {
+	margin-left: 0;
+}
+
+#top-menu .sub-menu,
+#main-menu .sub-menu {
+	text-align: right;
+}
+
+#top-menu ul ul,
+#main-menu ul ul {
+	right: 100%;
+}
+
+#main-menu li.menu-item-has-children>a:after {
+	float: left;
+	margin-left: 0;
+	margin-right: 10px;
+}
+
+#main-menu ul li.menu-item-has-children>a:after {
+	float: left;
+	content: "\f104";
+}
+
+
+/* Slider */
+.slider-dots li:last-child {
+	margin-right: 10px;
+}
+
+.slider-dots li:first-child {
+	margin-right: 0;
+}
+
+
+/* Content */
+.post-content > p:first-of-type:first-letter {
+	float: right !important;
+	margin: 0px 0 0 12px !important;
+}
+
+.post-author {
+	float: right;
+}
+
+.post-share {
+	float: left;
+}
+
+.post-share a:last-child {
+	margin-right: 10px;
+}
+
+.post-share a:first-child {
+	margin-right: 0;
+}
+
+.post-comments {
+	float: left;
+}
+
+.post-author a img {
+	margin-right: 0;
+	margin-left: 3px;
+}
+
+.post-tags {
+	text-align: right;
+}
+
+.blog-pagination.default .previous-page {
+	float: right;
+}
+
+.blog-pagination.default .next-page {
+	float: left;
+}
+
+.blog-pagination .fa-long-arrow-left:before {
+	content: "\f178";
+}
+
+.blog-pagination .fa-long-arrow-right:before {
+	content: "\f177";
+}
+
+.numeric-prev-page {
+	right: 0;
+	left: auto;
+}
+
+.blog-pagination.numeric .numeric-prev-page {
+	right: 0;
+	left: auto;
+}
+
+.blog-pagination.numeric .numeric-next-page {
+	left: 0;
+	right: auto;
+}
+
+.single-post .next-post {
+	left: 0;
+	right: auto;
+}
+
+.author-share a:last-child {
+	margin-right: 10px;
+}
+
+.author-share a:first-child {
+	margin-right: 0;
+}
+
+.single-post .previous-post img {
+  	right:-100px;
+	left: auto;
+}
+
+.single-post .next-post img {
+  	left: -100px;
+	right: auto;
+}
+
+.single-post .previous-post:hover img {
+    right: 25px;
+	left: auto;
+}
+
+.single-post .next-post:hover img {
+    right: auto;
+	left: 25px;
+}
+
+.single-post .next-post .fa-angle-right:before {
+    content: "\f104";
+}
+
+.single-post .previous-post .fa-angle-left:before {
+    content: "\f105";
+}
+
+.comment-avatar {
+  float: right;
+  margin-right: 0;
+  margin-left: 17px;
+}
+
+.comment-reply-link {
+	float: left;
+}
+
+.ashe-widget .sub-menu,
+.ashe-widget .children {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+.widget_search i,
+.widget_search #searchsubmit {
+	right: auto;
+	left: 0;
+}
+
+.widget_categories ul li,
+.widget_archive ul li {
+  float: right;
+  text-align: left;
+}
+
+.widget_categories ul li a,
+.widget_archive ul li a {
+  float: right;
+}
+
+.widget_categories .children li {
+  padding-left: 0;
+  padding-right: 10px;
+}
+
+.ashe_social_widget .social-icons a:last-child {
+	margin-right: 8.5%;
+}
+
+.ashe_social_widget .social-icons a:first-child {
+	margin-right: 0;
+}
+
+
+/* Footer */
+.copyright-info {
+	float: left !important;
+}
+
+.credit {
+	float: right;
+}
+
+.footer-socials a:last-child {
+	margin-right: 17px;
+}
+
+.footer-socials a:first-child {
+	margin-right: 0;
+}
+
+.footer-menu-container {
+	float: left;
+}
+
+#footer-menu {
+  	float: right;
+}
+
+#footer-menu > li {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.footer-menu-container:after {
+	float: left;
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+.scrolltop {
+	right: auto;
+	left: 80px;
+}
+
+
+/* Shop */
+.woocommerce span.onsale {
+	left: auto !important;
+	right: 7px !important;
+}
+
+.woocommerce ul.products li.product,
+.woocommerce-page ul.products li.product {
+	margin: 0 0 2.992em 2%;
+}
+
+.woocommerce ul.products li.last,
+.woocommerce-page ul.products li.last {
+    margin-left: 0 !important;
+}
+
+.woocommerce div.product .woocommerce-tabs ul.tabs {
+    padding-left: 0;
+    padding-right: 5px;
+}
+
+.widget_product_search input[type="submit"] {
+	right: auto;
+	left: 0;
+}
+
+.woocommerce ul.products li.product .star-rating span,
+.woocommerce ul.products li.product .star-rating::before {
+    left: auto;
+    right: 8px;
+}
+
+
+.woocommerce .page-content nav.woocommerce-pagination ul li a.prev {
+    left: auto;
+    right: 0;
+}
+
+.woocommerce .page-content nav.woocommerce-pagination ul li a.next {
+    left: 0;
+    right: auto;
+}
+
+.woocommerce .page-content nav.woocommerce-pagination ul li a.prev:after {
+    content: "\f178";
+}
+
+.woocommerce .page-content nav.woocommerce-pagination ul li a.next:after {
+    content: "\f177";
+}
+
+.woocommerce .woocommerce-checkout-review-order table.shop_table {
+    float: right;
+}
+
+.woocommerce-checkout-review-order .woocommerce-checkout-payment {
+    float: left;
+}
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text {
+	margin-left: 0;
+	margin-right: 77px;
+}
+
+.woocommerce .widget_layered_nav ul li,
+.woocommerce .widget_product_categories ul li {
+    float: right;
+    text-align: left;
+}
+
+.woocommerce .widget_layered_nav ul li a,
+.woocommerce .widget_product_categories ul li a {
+    float: right;
+}
+
+.woocommerce .widget_layered_nav .children li {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.woocommerce .widget_rating_filter ul li {
+  text-align: left;
+}
+
+.woocommerce .widget_rating_filter ul li .star-rating {
+  float: right;
+}
+
+.woocommerce .widget_shopping_cart .buttons a, .woocommerce.widget_shopping_cart .buttons a {
+  margin-right: 0;
+  margin-left: 10px;
+}
+
+.gallery-item {
+	margin-right: 0;
+	margin-left: 5px;
+}
+
+/* Wp def gallery */
+@media screen and ( min-width: 950px ) {
+
+	.gallery-columns-2 .gallery-item:nth-child(2n+2),
+	.gallery-columns-3 .gallery-item:nth-child(3n+3),
+	.gallery-columns-4 .gallery-item:nth-child(4n+4),
+	.gallery-columns-5 .gallery-item:nth-child(5n+5),
+	.gallery-columns-6 .gallery-item:nth-child(6n+6),
+	.gallery-columns-7 .gallery-item:nth-child(7n+7),
+	.gallery-columns-8 .gallery-item:nth-child(8n+8),
+	.gallery-columns-9 .gallery-item:nth-child(9n+9) {
+		margin-left: 0 !important;
+	}
+
+}
+
+@media screen and ( max-width: 950px ) {
+
+	.gallery-item:nth-child(2n+2) {
+		margin-left: 0 !important;
+	}
+
+}
+
+/* Viewport Size 320px */
+@media screen and ( max-width: 320px ) {
+  
+  .post-content {
+    text-align: right;
+  }
+
+}

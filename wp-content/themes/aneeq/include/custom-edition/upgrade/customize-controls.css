@@ -1,0 +1,30 @@
+#customize-controls .control-section-aneeq  .accordion-section-title:hover,
+#customize-controls .control-section-aneeq  .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-aneeq  .accordion-section-title .button {
+	margin-top:  -3px;
+	font-weight: 400;
+	margin-left: 8px;
+	background: #008ec2!important;
+    border-color: #78d6ff!important;
+	color: #fff;
+	/* border:0px solid #fff; */
+}
+
+/* .control-section-aneeq  .accordion-section-title .button:hover {
+	margin-top:  -3px;
+	font-weight: 400;
+	margin-left: 8px;
+	background: linear-gradient(40deg,#e88d10c4,#ff000a,#e88d10c4,#e88d10c4);
+	color: #fff;
+	border:0px solid #fff;
+}
+
+
+.rtl .control-section-aneeq  .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+ */
